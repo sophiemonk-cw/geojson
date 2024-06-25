@@ -1,0 +1,6363 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.27018,54.67614 ]
+    },
+    "properties": {
+    "OBJECTID":1,
+    "LAD21CD":"E06000001",
+    "LAD21NM":"Hartlepool",
+    "BNG_E":447160,
+    "BNG_N":531474,
+    "Shape__Area":"93717029.9077454",
+    "Shape__Length":"70995.7229330667",
+    "GlobalID":"ca7f3a60-3c61-4e35-9294-bb4bf30aa27e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.21099,54.54467 ]
+    },
+    "properties": {
+    "OBJECTID":2,
+    "LAD21CD":"E06000002",
+    "LAD21NM":"Middlesbrough",
+    "BNG_E":451141,
+    "BNG_N":516887,
+    "Shape__Area":"53881562.6282043",
+    "Shape__Length":"44481.4413849519",
+    "GlobalID":"e05c5c16-f8ff-4e8e-a972-8b2821f4256a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.00608,54.56752 ]
+    },
+    "properties": {
+    "OBJECTID":3,
+    "LAD21CD":"E06000003",
+    "LAD21NM":"Redcar and Cleveland",
+    "BNG_E":464361,
+    "BNG_N":519597,
+    "Shape__Area":"245069509.42363",
+    "Shape__Length":"96704.03152538",
+    "GlobalID":"9946aa82-eadc-40ce-bc31-966c7f64227f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.30664,54.55691 ]
+    },
+    "properties": {
+    "OBJECTID":4,
+    "LAD21CD":"E06000004",
+    "LAD21NM":"Stockton-on-Tees",
+    "BNG_E":444940,
+    "BNG_N":518183,
+    "Shape__Area":"204932952.709305",
+    "Shape__Length":"123408.788095676",
+    "GlobalID":"a7b036a9-1a06-4206-956c-5519c3a8dd66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.56835,54.53534 ]
+    },
+    "properties": {
+    "OBJECTID":5,
+    "LAD21CD":"E06000005",
+    "LAD21NM":"Darlington",
+    "BNG_E":428029,
+    "BNG_N":515648,
+    "Shape__Area":"197477768.128265",
+    "Shape__Length":"107203.152334417",
+    "GlobalID":"89ab5e88-63b6-4f7b-b8dc-7618eee2867b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.68853,53.33424 ]
+    },
+    "properties": {
+    "OBJECTID":6,
+    "LAD21CD":"E06000006",
+    "LAD21NM":"Halton",
+    "BNG_E":354246,
+    "BNG_N":382146,
+    "Shape__Area":"79084032.6157074",
+    "Shape__Length":"77770.9338001435",
+    "GlobalID":"7a676444-dfc4-4d7a-bac2-cccd20f2109b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.56167,53.39163 ]
+    },
+    "properties": {
+    "OBJECTID":7,
+    "LAD21CD":"E06000007",
+    "LAD21NM":"Warrington",
+    "BNG_E":362744,
+    "BNG_N":388456,
+    "Shape__Area":"180627982.923309",
+    "Shape__Length":"114690.68684576",
+    "GlobalID":"dbe593f1-6f36-4319-aebd-aa769c32a136"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4636,53.7008 ]
+    },
+    "properties": {
+    "OBJECTID":8,
+    "LAD21CD":"E06000008",
+    "LAD21NM":"Blackburn with Darwen",
+    "BNG_E":369490,
+    "BNG_N":422806,
+    "Shape__Area":"137022079.422363",
+    "Shape__Length":"65284.9523177376",
+    "GlobalID":"9073cab4-a858-4528-90f6-1d40583dce69"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.02199,53.82164 ]
+    },
+    "properties": {
+    "OBJECTID":9,
+    "LAD21CD":"E06000009",
+    "LAD21NM":"Blackpool",
+    "BNG_E":332819,
+    "BNG_N":436635,
+    "Shape__Area":"34870886.4498138",
+    "Shape__Length":"34483.4799655354",
+    "GlobalID":"eebbcecf-fc47-47aa-b588-98740f583562"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.30382,53.7692 ]
+    },
+    "properties": {
+    "OBJECTID":10,
+    "LAD21CD":"E06000010",
+    "LAD21NM":"Kingston upon Hull, City of",
+    "BNG_E":511894,
+    "BNG_N":431650,
+    "Shape__Area":"71583611.1152496",
+    "Shape__Length":"64681.1040782761",
+    "GlobalID":"db8ec172-312d-4c02-884f-2486d159bd77"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.66195,53.88112 ]
+    },
+    "properties": {
+    "OBJECTID":11,
+    "LAD21CD":"E06000011",
+    "LAD21NM":"East Riding of Yorkshire",
+    "BNG_E":488056,
+    "BNG_N":443597,
+    "Shape__Area":"2404771586.81244",
+    "Shape__Length":"504081.639206162",
+    "GlobalID":"9b47c1e9-5ab1-4266-9f5d-6acc853bd920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.13911,53.52327 ]
+    },
+    "properties": {
+    "OBJECTID":12,
+    "LAD21CD":"E06000012",
+    "LAD21NM":"North East Lincolnshire",
+    "BNG_E":523465,
+    "BNG_N":404564,
+    "Shape__Area":"192622955.912338",
+    "Shape__Length":"93248.4865198871",
+    "GlobalID":"55c90333-1445-4055-a993-7fd198377603"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.52407,53.58643 ]
+    },
+    "properties": {
+    "OBJECTID":13,
+    "LAD21CD":"E06000013",
+    "LAD21NM":"North Lincolnshire",
+    "BNG_E":497800,
+    "BNG_N":410993,
+    "Shape__Area":"846540130.357376",
+    "Shape__Length":"244547.837491271",
+    "GlobalID":"f3d6375f-0e3c-4654-b768-83e6fcea2286"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.07375,53.96582 ]
+    },
+    "properties": {
+    "OBJECTID":14,
+    "LAD21CD":"E06000014",
+    "LAD21NM":"York",
+    "BNG_E":460864,
+    "BNG_N":452589,
+    "Shape__Area":"271931825.230118",
+    "Shape__Length":"101947.387733638",
+    "GlobalID":"42c217c4-614e-4a2e-9c2f-89d3c26e761b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47189,52.91464 ]
+    },
+    "properties": {
+    "OBJECTID":15,
+    "LAD21CD":"E06000015",
+    "LAD21NM":"Derby",
+    "BNG_E":435609,
+    "BNG_N":335375,
+    "Shape__Area":"78031123.6711121",
+    "Shape__Length":"50037.5273504427",
+    "GlobalID":"3f179e7d-28e8-4303-824f-b879d1a5ab1f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1304,52.63592 ]
+    },
+    "properties": {
+    "OBJECTID":16,
+    "LAD21CD":"E06000016",
+    "LAD21NM":"Leicester",
+    "BNG_E":458946,
+    "BNG_N":304594,
+    "Shape__Area":"73342071.6983032",
+    "Shape__Length":"51931.7073368346",
+    "GlobalID":"e413345f-9552-4ed8-9948-de7d3bdcc696"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6263,52.66765 ]
+    },
+    "properties": {
+    "OBJECTID":17,
+    "LAD21CD":"E06000017",
+    "LAD21NM":"Rutland",
+    "BNG_E":492992,
+    "BNG_N":308655,
+    "Shape__Area":"393748906.930069",
+    "Shape__Length":"125884.932019303",
+    "GlobalID":"2b73cc77-0340-495e-b673-52a482a185ae"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.16667,52.95419 ]
+    },
+    "properties": {
+    "OBJECTID":18,
+    "LAD21CD":"E06000018",
+    "LAD21NM":"Nottingham",
+    "BNG_E":456082,
+    "BNG_N":339969,
+    "Shape__Area":"74613555.3421631",
+    "Shape__Length":"58724.0327675763",
+    "GlobalID":"8b5ffb09-5d07-41ba-8549-48b1e3631be0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73931,52.08154 ]
+    },
+    "properties": {
+    "OBJECTID":19,
+    "LAD21CD":"E06000019",
+    "LAD21NM":"Herefordshire, County of",
+    "BNG_E":349434,
+    "BNG_N":242834,
+    "Shape__Area":"2179709442.72866",
+    "Shape__Length":"349889.259975134",
+    "GlobalID":"ac45f64c-5b45-4f0d-9e0b-198e91b26384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.48941,52.71417 ]
+    },
+    "properties": {
+    "OBJECTID":20,
+    "LAD21CD":"E06000020",
+    "LAD21NM":"Telford and Wrekin",
+    "BNG_E":367035,
+    "BNG_N":313057,
+    "Shape__Area":"290313543.526337",
+    "Shape__Length":"118779.656757853",
+    "GlobalID":"860d790a-7e6a-4d44-8256-bd8b49bf27ed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15888,53.01707 ]
+    },
+    "properties": {
+    "OBJECTID":21,
+    "LAD21CD":"E06000021",
+    "LAD21NM":"Stoke-on-Trent",
+    "BNG_E":389438,
+    "BNG_N":346652,
+    "Shape__Area":"93448482.2061844",
+    "Shape__Length":"63974.4506512752",
+    "GlobalID":"4f691785-3e3b-4c09-9441-cf1171d23599"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.48654,51.35604 ]
+    },
+    "properties": {
+    "OBJECTID":22,
+    "LAD21CD":"E06000022",
+    "LAD21NM":"Bath and North East Somerset",
+    "BNG_E":366217,
+    "BNG_N":161999,
+    "Shape__Area":"351123212.497639",
+    "Shape__Length":"141684.569708064",
+    "GlobalID":"1442ec07-5dbf-45d4-b353-44bb39dc54fa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.57742,51.47115 ]
+    },
+    "properties": {
+    "OBJECTID":23,
+    "LAD21CD":"E06000023",
+    "LAD21NM":"Bristol, City of",
+    "BNG_E":359990,
+    "BNG_N":174846,
+    "Shape__Area":"109666791.496761",
+    "Shape__Length":"108825.701912383",
+    "GlobalID":"fec77a78-0c35-45e1-83ea-87251ee4d2e7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.75438,51.39706 ]
+    },
+    "properties": {
+    "OBJECTID":24,
+    "LAD21CD":"E06000024",
+    "LAD21NM":"North Somerset",
+    "BNG_E":347614,
+    "BNG_N":166718,
+    "Shape__Area":"374637225.937637",
+    "Shape__Length":"154770.171247745",
+    "GlobalID":"e3580125-f9f3-4ac2-86e1-553e381ecd3b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.46922,51.54673 ]
+    },
+    "properties": {
+    "OBJECTID":25,
+    "LAD21CD":"E06000025",
+    "LAD21NM":"South Gloucestershire",
+    "BNG_E":367559,
+    "BNG_N":183198,
+    "Shape__Area":"497050934.270977",
+    "Shape__Length":"142552.756769387",
+    "GlobalID":"6b87642b-873b-42e2-97a1-ef7f0ae4ec24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.11297,50.40494 ]
+    },
+    "properties": {
+    "OBJECTID":26,
+    "LAD21CD":"E06000026",
+    "LAD21NM":"Plymouth",
+    "BNG_E":249945,
+    "BNG_N":58255,
+    "Shape__Area":"79849713.8688736",
+    "Shape__Length":"92645.2859471134",
+    "GlobalID":"d80541f8-5dde-48a8-8124-84fe5c87e440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.55523,50.47092 ]
+    },
+    "properties": {
+    "OBJECTID":27,
+    "LAD21CD":"E06000027",
+    "LAD21NM":"Torbay",
+    "BNG_E":289730,
+    "BNG_N":64613,
+    "Shape__Area":"62886694.4638176",
+    "Shape__Length":"77910.7009953355",
+    "GlobalID":"29428fe0-796f-489a-9ae9-347a7a4fd51c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.73367,51.57763 ]
+    },
+    "properties": {
+    "OBJECTID":28,
+    "LAD21CD":"E06000030",
+    "LAD21NM":"Swindon",
+    "BNG_E":418551,
+    "BNG_N":186564,
+    "Shape__Area":"230093376.535385",
+    "Shape__Length":"103014.619569825",
+    "GlobalID":"c136fac5-a451-4d27-9332-221f5fdd8ad6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26874,52.59214 ]
+    },
+    "properties": {
+    "OBJECTID":29,
+    "LAD21CD":"E06000031",
+    "LAD21NM":"Peterborough",
+    "BNG_E":517372,
+    "BNG_N":300777,
+    "Shape__Area":"343378156.971542",
+    "Shape__Length":"112677.967206289",
+    "GlobalID":"b68ba4d9-c838-42aa-881f-e476288960ad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.42319,51.89102 ]
+    },
+    "properties": {
+    "OBJECTID":30,
+    "LAD21CD":"E06000032",
+    "LAD21NM":"Luton",
+    "BNG_E":508606,
+    "BNG_N":222559,
+    "Shape__Area":"43352491.4350586",
+    "Shape__Length":"34569.6026266023",
+    "GlobalID":"d8fd0f4e-9ac1-4af9-8fcb-f1305ae7cef4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.706923,51.54917 ]
+    },
+    "properties": {
+    "OBJECTID":31,
+    "LAD21CD":"E06000033",
+    "LAD21NM":"Southend-on-Sea",
+    "BNG_E":587777,
+    "BNG_N":186837,
+    "Shape__Area":"41673935.6801987",
+    "Shape__Length":"57783.2533781421",
+    "GlobalID":"8ebbd935-c9fd-4f32-9001-1c6effac7766"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.334861,51.50998 ]
+    },
+    "properties": {
+    "OBJECTID":32,
+    "LAD21CD":"E06000034",
+    "LAD21NM":"Thurrock",
+    "BNG_E":562123,
+    "BNG_N":181590,
+    "Shape__Area":"163837050.322235",
+    "Shape__Length":"115992.128205902",
+    "GlobalID":"5cc1c975-5230-4393-860c-d1e03a4668d3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.563174,51.44772 ]
+    },
+    "properties": {
+    "OBJECTID":33,
+    "LAD21CD":"E06000035",
+    "LAD21NM":"Medway",
+    "BNG_E":578207,
+    "BNG_N":175198,
+    "Shape__Area":"193714249.225189",
+    "Shape__Length":"249514.824763325",
+    "GlobalID":"c3fbe1be-5e81-4da7-846c-99a827f9ff0a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.73363,51.4113 ]
+    },
+    "properties": {
+    "OBJECTID":34,
+    "LAD21CD":"E06000036",
+    "LAD21NM":"Bracknell Forest",
+    "BNG_E":488169,
+    "BNG_N":168792,
+    "Shape__Area":"109384214.697464",
+    "Shape__Length":"62507.9039338433",
+    "GlobalID":"4066bb65-c27c-4a3f-bbab-630015d0c501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.27364,51.44559 ]
+    },
+    "properties": {
+    "OBJECTID":35,
+    "LAD21CD":"E06000037",
+    "LAD21NM":"West Berkshire",
+    "BNG_E":450575,
+    "BNG_N":172095,
+    "Shape__Area":"704169399.468628",
+    "Shape__Length":"166801.583097447",
+    "GlobalID":"42fc20f4-b52f-44de-b068-8afd39dffb66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.99071,51.45302 ]
+    },
+    "properties": {
+    "OBJECTID":36,
+    "LAD21CD":"E06000038",
+    "LAD21NM":"Reading",
+    "BNG_E":470226,
+    "BNG_N":173154,
+    "Shape__Area":"40397992.5604858",
+    "Shape__Length":"39330.6369676028",
+    "GlobalID":"eef70b3c-95d5-4361-81d1-6af31e866af4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.57617,51.5035 ]
+    },
+    "properties": {
+    "OBJECTID":37,
+    "LAD21CD":"E06000039",
+    "LAD21NM":"Slough",
+    "BNG_E":498920,
+    "BNG_N":179246,
+    "Shape__Area":"32542009.0507278",
+    "Shape__Length":"44181.393234306",
+    "GlobalID":"a8387e34-bd74-4128-b1e4-bb43f0f305ad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.67541,51.48034 ]
+    },
+    "properties": {
+    "OBJECTID":38,
+    "LAD21CD":"E06000040",
+    "LAD21NM":"Windsor and Maidenhead",
+    "BNG_E":492079,
+    "BNG_N":176541,
+    "Shape__Area":"198427168.806099",
+    "Shape__Length":"114829.071707676",
+    "GlobalID":"d4228a14-8836-4db2-908d-a754d8ed1dc7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.89935,51.42296 ]
+    },
+    "properties": {
+    "OBJECTID":39,
+    "LAD21CD":"E06000041",
+    "LAD21NM":"Wokingham",
+    "BNG_E":476624,
+    "BNG_N":169902,
+    "Shape__Area":"178965482.695686",
+    "Shape__Length":"86865.5899032165",
+    "GlobalID":"6da88226-6d0f-48c9-800d-f6c762d87cad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7407,52.07241 ]
+    },
+    "properties": {
+    "OBJECTID":40,
+    "LAD21CD":"E06000042",
+    "LAD21NM":"Milton Keynes",
+    "BNG_E":486408,
+    "BNG_N":242308,
+    "Shape__Area":"308626791.319244",
+    "Shape__Length":"102960.289818815",
+    "GlobalID":"bcf7eb84-f78c-4cc9-9ae9-a01b8ec760e4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15079,50.8465 ]
+    },
+    "properties": {
+    "OBJECTID":41,
+    "LAD21CD":"E06000043",
+    "LAD21NM":"Brighton and Hove",
+    "BNG_E":530279,
+    "BNG_N":106850,
+    "Shape__Area":"82832959.1101494",
+    "Shape__Length":"59519.3844052793",
+    "GlobalID":"f2e2af75-8fe6-447f-b9a1-23f7c050d396"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.07006,50.808 ]
+    },
+    "properties": {
+    "OBJECTID":42,
+    "LAD21CD":"E06000044",
+    "LAD21NM":"Portsmouth",
+    "BNG_E":465619,
+    "BNG_N":101352,
+    "Shape__Area":"40389409.3058968",
+    "Shape__Length":"62643.7894850186",
+    "GlobalID":"42270951-15d8-47b3-9f93-b8d14b75a29b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.39952,50.9212 ]
+    },
+    "properties": {
+    "OBJECTID":43,
+    "LAD21CD":"E06000045",
+    "LAD21NM":"Southampton",
+    "BNG_E":442303,
+    "BNG_N":113700,
+    "Shape__Area":"49880646.9901733",
+    "Shape__Length":"61543.9971629535",
+    "GlobalID":"53ec3e2d-4679-4ec7-9993-5100c2db0d5f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.33366,50.67129 ]
+    },
+    "properties": {
+    "OBJECTID":44,
+    "LAD21CD":"E06000046",
+    "LAD21NM":"Isle of Wight",
+    "BNG_E":447183,
+    "BNG_N":85949,
+    "Shape__Area":"379620110.598179",
+    "Shape__Length":"210138.376351727",
+    "GlobalID":"e4b5c32a-d31c-4f70-8f15-4669fa16decb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.8405,54.68513 ]
+    },
+    "properties": {
+    "OBJECTID":45,
+    "LAD21CD":"E06000047",
+    "LAD21NM":"County Durham",
+    "BNG_E":410381,
+    "BNG_N":532242,
+    "Shape__Area":"2231457246.64323",
+    "Shape__Length":"315062.780589158",
+    "GlobalID":"f7921562-17e7-48e9-b9ca-719bde5d4229"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.29299,53.16793 ]
+    },
+    "properties": {
+    "OBJECTID":46,
+    "LAD21CD":"E06000049",
+    "LAD21NM":"Cheshire East",
+    "BNG_E":380510,
+    "BNG_N":363462,
+    "Shape__Area":"1166357380.99322",
+    "Shape__Length":"301224.749702643",
+    "GlobalID":"e28dc268-bfaf-4e89-ad85-a824db027a78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.70298,53.16336 ]
+    },
+    "properties": {
+    "OBJECTID":47,
+    "LAD21CD":"E06000050",
+    "LAD21NM":"Cheshire West and Chester",
+    "BNG_E":353097,
+    "BNG_N":363145,
+    "Shape__Area":"920018000.24791",
+    "Shape__Length":"335614.811839086",
+    "GlobalID":"8dce83f6-7732-4d3f-82ad-2432c09bc955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.73667,52.62212 ]
+    },
+    "properties": {
+    "OBJECTID":48,
+    "LAD21CD":"E06000051",
+    "LAD21NM":"Shropshire",
+    "BNG_E":350227,
+    "BNG_N":302960,
+    "Shape__Area":"3197275382.07484",
+    "Shape__Length":"580649.357727217",
+    "GlobalID":"3fc0738d-9999-4fa7-a9d3-8a777cc31e35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.64254,50.45022 ]
+    },
+    "properties": {
+    "OBJECTID":49,
+    "LAD21CD":"E06000052",
+    "LAD21NM":"Cornwall",
+    "BNG_E":212497,
+    "BNG_N":64493,
+    "Shape__Area":"3548939236.523",
+    "Shape__Length":"1241734.32056245",
+    "GlobalID":"7b779155-158e-46d8-91a7-82ea5fd87cc7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.30217,49.92332 ]
+    },
+    "properties": {
+    "OBJECTID":50,
+    "LAD21CD":"E06000053",
+    "LAD21NM":"Isles of Scilly",
+    "BNG_E":91327,
+    "BNG_N":11447,
+    "Shape__Area":"16317753.9529238",
+    "Shape__Length":"117979.339046542",
+    "GlobalID":"416b5a18-b4d6-4e06-84cd-c99de497bd62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.92661,51.32883 ]
+    },
+    "properties": {
+    "OBJECTID":51,
+    "LAD21CD":"E06000054",
+    "LAD21NM":"Wiltshire",
+    "BNG_E":405209,
+    "BNG_N":158863,
+    "Shape__Area":"3255338119.79789",
+    "Shape__Length":"402006.286759092",
+    "GlobalID":"711dcb11-42b9-4753-bf44-36310cd3120e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.45463,52.19628 ]
+    },
+    "properties": {
+    "OBJECTID":52,
+    "LAD21CD":"E06000055",
+    "LAD21NM":"Bedford",
+    "BNG_E":505721,
+    "BNG_N":256463,
+    "Shape__Area":"476408301.257416",
+    "Shape__Length":"131721.083517931",
+    "GlobalID":"6d021924-f8b3-41b2-9322-c626c8dff712"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.47754,51.99903 ]
+    },
+    "properties": {
+    "OBJECTID":53,
+    "LAD21CD":"E06000056",
+    "LAD21NM":"Central Bedfordshire",
+    "BNG_E":504615,
+    "BNG_N":234492,
+    "Shape__Area":"715665302.187256",
+    "Shape__Length":"232692.316778813",
+    "GlobalID":"9a569b4a-8a3c-4716-b2aa-fef25afef4e4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.07523,55.30037 ]
+    },
+    "properties": {
+    "OBJECTID":54,
+    "LAD21CD":"E06000057",
+    "LAD21NM":"Northumberland",
+    "BNG_E":395322,
+    "BNG_N":600699,
+    "Shape__Area":"5032268631.47464",
+    "Shape__Length":"605421.993540234",
+    "GlobalID":"6455a4de-249b-42a1-a215-f493848fbefe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.84807,50.74609 ]
+    },
+    "properties": {
+    "OBJECTID":55,
+    "LAD21CD":"E06000058",
+    "LAD21NM":"Bournemouth, Christchurch and Poole",
+    "BNG_E":410815,
+    "BNG_N":94066,
+    "Shape__Area":"162070068.522686",
+    "Shape__Length":"169171.62978486",
+    "GlobalID":"937178c4-21d3-42f4-b490-fc540fe9114a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.41467,50.79697 ]
+    },
+    "properties": {
+    "OBJECTID":56,
+    "LAD21CD":"E06000059",
+    "LAD21NM":"Dorset",
+    "BNG_E":370871,
+    "BNG_N":99796,
+    "Shape__Area":"2490956587.08974",
+    "Shape__Length":"594357.656718231",
+    "GlobalID":"9c119ffc-2074-4455-8826-081c0177ea60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.80569,51.76966 ]
+    },
+    "properties": {
+    "OBJECTID":57,
+    "LAD21CD":"E06000060",
+    "LAD21NM":"Buckinghamshire",
+    "BNG_E":482506,
+    "BNG_N":208561,
+    "Shape__Area":"1564949149.76157",
+    "Shape__Length":"361852.64071749",
+    "GlobalID":"64f23f0d-d788-44c3-83b4-ff591edb43fb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.62504,52.42546 ]
+    },
+    "properties": {
+    "OBJECTID":58,
+    "LAD21CD":"E06000061",
+    "LAD21NM":"North Northamptonshire",
+    "BNG_E":493590,
+    "BNG_N":281718,
+    "Shape__Area":"986594568.073196",
+    "Shape__Length":"210629.48617394",
+    "GlobalID":"b2b07115-719a-41da-accd-7ef4dada903c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.01682,52.26898 ]
+    },
+    "properties": {
+    "OBJECTID":59,
+    "LAD21CD":"E06000062",
+    "LAD21NM":"West Northamptonshire",
+    "BNG_E":467187,
+    "BNG_N":263879,
+    "Shape__Area":"1380395592.6176",
+    "Shape__Length":"263792.05395224",
+    "GlobalID":"a9093ed4-d990-4ac9-8313-53663c6f57af"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.126436,52.20017 ]
+    },
+    "properties": {
+    "OBJECTID":60,
+    "LAD21CD":"E07000008",
+    "LAD21NM":"Cambridge",
+    "BNG_E":545420,
+    "BNG_N":257901,
+    "Shape__Area":"40698797.9441071",
+    "Shape__Length":"37170.3582136235",
+    "GlobalID":"839ae430-0e2d-4d69-81b2-eee67f3cbbf6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.283149,52.35788 ]
+    },
+    "properties": {
+    "OBJECTID":61,
+    "LAD21CD":"E07000009",
+    "LAD21NM":"East Cambridgeshire",
+    "BNG_E":555576,
+    "BNG_N":275765,
+    "Shape__Area":"651286027.253616",
+    "Shape__Length":"234187.5969078",
+    "GlobalID":"54f3e4cd-d141-4b1b-ae85-186f55df9d46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.009016,52.53544 ]
+    },
+    "properties": {
+    "OBJECTID":62,
+    "LAD21CD":"E07000010",
+    "LAD21NM":"Fenland",
+    "BNG_E":536361,
+    "BNG_N":294959,
+    "Shape__Area":"546450060.729355",
+    "Shape__Length":"187881.713009129",
+    "GlobalID":"9b416ec1-ad44-472f-922b-deeb647d3d63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2247,52.35315 ]
+    },
+    "properties": {
+    "OBJECTID":63,
+    "LAD21CD":"E07000011",
+    "LAD21NM":"Huntingdonshire",
+    "BNG_E":521008,
+    "BNG_N":274269,
+    "Shape__Area":"912455234.171478",
+    "Shape__Length":"223337.672178387",
+    "GlobalID":"fc1e4a0c-e3d8-4b0b-a171-6c7e8e05193c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.091017,52.10805 ]
+    },
+    "properties": {
+    "OBJECTID":64,
+    "LAD21CD":"E07000012",
+    "LAD21NM":"South Cambridgeshire",
+    "BNG_E":543295,
+    "BNG_N":247586,
+    "Shape__Area":"901624805.657982",
+    "Shape__Length":"257078.047542401",
+    "GlobalID":"89efe586-6922-436e-bd8d-6ce5faaaaed0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2809,54.68524 ]
+    },
+    "properties": {
+    "OBJECTID":65,
+    "LAD21CD":"E07000026",
+    "LAD21NM":"Allerdale",
+    "BNG_E":317520,
+    "BNG_N":532997,
+    "Shape__Area":"1258309834.54111",
+    "Shape__Length":"326488.823591255",
+    "GlobalID":"e5e36c61-49c5-4b1e-9807-bef93cf9f87d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1999,54.15731 ]
+    },
+    "properties": {
+    "OBJECTID":66,
+    "LAD21CD":"E07000027",
+    "LAD21NM":"Barrow-in-Furness",
+    "BNG_E":321741,
+    "BNG_N":474165,
+    "Shape__Area":"77896997.2633057",
+    "Shape__Length":"146480.666517635",
+    "GlobalID":"9808ce5e-1d2c-4fbc-b370-fc47ba338473"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.80498,54.97833 ]
+    },
+    "properties": {
+    "OBJECTID":67,
+    "LAD21CD":"E07000028",
+    "LAD21NM":"Carlisle",
+    "BNG_E":348576,
+    "BNG_N":565154,
+    "Shape__Area":"1038297606.56947",
+    "Shape__Length":"278392.319321427",
+    "GlobalID":"8e5cc373-ff20-4392-831a-78225abd42b3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.37664,54.46617 ]
+    },
+    "properties": {
+    "OBJECTID":68,
+    "LAD21CD":"E07000029",
+    "LAD21NM":"Copeland",
+    "BNG_E":310871,
+    "BNG_N":508739,
+    "Shape__Area":"737632448.411469",
+    "Shape__Length":"252311.325634392",
+    "GlobalID":"cba57d8f-a376-454f-86ee-9d5452df5d26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.62678,54.63107 ]
+    },
+    "properties": {
+    "OBJECTID":69,
+    "LAD21CD":"E07000030",
+    "LAD21NM":"Eden",
+    "BNG_E":359636,
+    "BNG_N":526396,
+    "Shape__Area":"2156471321.4138",
+    "Shape__Length":"268743.656802272",
+    "GlobalID":"aebf8dc0-19c2-4830-a13f-24977e2440ba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.78108,54.29908 ]
+    },
+    "properties": {
+    "OBJECTID":70,
+    "LAD21CD":"E07000031",
+    "LAD21NM":"South Lakeland",
+    "BNG_E":349265,
+    "BNG_N":489555,
+    "Shape__Area":"1554926441.63846",
+    "Shape__Length":"381795.002097405",
+    "GlobalID":"64bba4a4-6a19-4526-9974-067d270e5c34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.46219,53.02884 ]
+    },
+    "properties": {
+    "OBJECTID":71,
+    "LAD21CD":"E07000032",
+    "LAD21NM":"Amber Valley",
+    "BNG_E":436166,
+    "BNG_N":348084,
+    "Shape__Area":"265437866.790695",
+    "Shape__Length":"109036.161822696",
+    "GlobalID":"815c5cca-fbe8-4a8d-b560-94c6968248dc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.27228,53.23875 ]
+    },
+    "properties": {
+    "OBJECTID":72,
+    "LAD21CD":"E07000033",
+    "LAD21NM":"Bolsover",
+    "BNG_E":448666,
+    "BNG_N":371548,
+    "Shape__Area":"160334646.961426",
+    "Shape__Length":"96239.0059795534",
+    "GlobalID":"5b0e4c0d-dc3c-4487-9b99-d61c9fd11ff0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.40115,53.25575 ]
+    },
+    "properties": {
+    "OBJECTID":73,
+    "LAD21CD":"E07000034",
+    "LAD21NM":"Chesterfield",
+    "BNG_E":440049,
+    "BNG_N":373359,
+    "Shape__Area":"66035293.2658386",
+    "Shape__Length":"52617.6461927633",
+    "GlobalID":"fc5b103e-fe7c-4c0c-bc75-b1bd46015ea3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70711,53.12326 ]
+    },
+    "properties": {
+    "OBJECTID":74,
+    "LAD21CD":"E07000035",
+    "LAD21NM":"Derbyshire Dales",
+    "BNG_E":419697,
+    "BNG_N":358493,
+    "Shape__Area":"795318060.803596",
+    "Shape__Length":"245475.146246716",
+    "GlobalID":"fc63a28e-9535-4ea8-96fc-555155a4b359"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3509,52.9382 ]
+    },
+    "properties": {
+    "OBJECTID":75,
+    "LAD21CD":"E07000036",
+    "LAD21NM":"Erewash",
+    "BNG_E":443721,
+    "BNG_N":338063,
+    "Shape__Area":"109630045.589233",
+    "Shape__Length":"73547.4074227637",
+    "GlobalID":"3ecf4ac6-4577-4ac7-be86-39597546a4c7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.84398,53.38569 ]
+    },
+    "properties": {
+    "OBJECTID":76,
+    "LAD21CD":"E07000037",
+    "LAD21NM":"High Peak",
+    "BNG_E":410474,
+    "BNG_N":387660,
+    "Shape__Area":"540254002.914841",
+    "Shape__Length":"159632.653793227",
+    "GlobalID":"c837919d-3f50-4186-843f-c287c198f784"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.44253,53.16243 ]
+    },
+    "properties": {
+    "OBJECTID":77,
+    "LAD21CD":"E07000038",
+    "LAD21NM":"North East Derbyshire",
+    "BNG_E":437369,
+    "BNG_N":362955,
+    "Shape__Area":"275623525.416367",
+    "Shape__Length":"161243.41863516",
+    "GlobalID":"d90cd6c3-b466-4fc2-b03a-80da79fccec0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5348,52.8249 ]
+    },
+    "properties": {
+    "OBJECTID":78,
+    "LAD21CD":"E07000039",
+    "LAD21NM":"South Derbyshire",
+    "BNG_E":431443,
+    "BNG_N":325363,
+    "Shape__Area":"338126971.197563",
+    "Shape__Length":"166692.971482608",
+    "GlobalID":"4365928f-065c-49b8-ade3-5ebba3474120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.22359,50.7576 ]
+    },
+    "properties": {
+    "OBJECTID":79,
+    "LAD21CD":"E07000040",
+    "LAD21NM":"East Devon",
+    "BNG_E":313790,
+    "BNG_N":96050,
+    "Shape__Area":"814245109.40111",
+    "Shape__Length":"219476.408977675",
+    "GlobalID":"55bf52a1-5988-4f40-a3b7-ba7e851d6849"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.51368,50.71782 ]
+    },
+    "properties": {
+    "OBJECTID":80,
+    "LAD21CD":"E07000041",
+    "LAD21NM":"Exeter",
+    "BNG_E":293239,
+    "BNG_N":92005,
+    "Shape__Area":"47033024.8363476",
+    "Shape__Length":"50238.1722506895",
+    "GlobalID":"d2516782-8a7d-4bc9-adb9-e582bef1fd0e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.59212,50.86882 ]
+    },
+    "properties": {
+    "OBJECTID":81,
+    "LAD21CD":"E07000042",
+    "LAD21NM":"Mid Devon",
+    "BNG_E":288064,
+    "BNG_N":108911,
+    "Shape__Area":"912900111.710012",
+    "Shape__Length":"246269.426737415",
+    "GlobalID":"8fdbc7f1-18ba-4fb3-a877-498bb07c32f5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.92691,51.07621 ]
+    },
+    "properties": {
+    "OBJECTID":82,
+    "LAD21CD":"E07000043",
+    "LAD21NM":"North Devon",
+    "BNG_E":265110,
+    "BNG_N":132532,
+    "Shape__Area":"1085882521.46541",
+    "Shape__Length":"321532.693545984",
+    "GlobalID":"6267f277-9e6b-40ba-9a3b-fabfb03c3ea6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.81996,50.37195 ]
+    },
+    "properties": {
+    "OBJECTID":83,
+    "LAD21CD":"E07000044",
+    "LAD21NM":"South Hams",
+    "BNG_E":270676,
+    "BNG_N":54036,
+    "Shape__Area":"886546850.814631",
+    "Shape__Length":"478794.084791166",
+    "GlobalID":"eaac58c8-f600-4e11-841e-aa9badd2d496"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.65289,50.60981 ]
+    },
+    "properties": {
+    "OBJECTID":84,
+    "LAD21CD":"E07000045",
+    "LAD21NM":"Teignbridge",
+    "BNG_E":283144,
+    "BNG_N":80205,
+    "Shape__Area":"673759657.17375",
+    "Shape__Length":"191473.55603965",
+    "GlobalID":"b0151f56-5e88-4f95-b343-07337f7cd973"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.21728,50.90739 ]
+    },
+    "properties": {
+    "OBJECTID":85,
+    "LAD21CD":"E07000046",
+    "LAD21NM":"Torridge",
+    "BNG_E":244206,
+    "BNG_N":114334,
+    "Shape__Area":"985258200.613039",
+    "Shape__Length":"316930.37083844",
+    "GlobalID":"c8203490-77be-4292-a28f-3a8e207dfb43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.03361,50.66481 ]
+    },
+    "properties": {
+    "OBJECTID":86,
+    "LAD21CD":"E07000047",
+    "LAD21NM":"West Devon",
+    "BNG_E":256376,
+    "BNG_N":86990,
+    "Shape__Area":"1161110805.24189",
+    "Shape__Length":"254096.666464398",
+    "GlobalID":"3033908a-28b4-40c3-84f1-919eef27b916"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.258516,50.77387 ]
+    },
+    "properties": {
+    "OBJECTID":87,
+    "LAD21CD":"E07000061",
+    "LAD21NM":"Eastbourne",
+    "BNG_E":559339,
+    "BNG_N":99575,
+    "Shape__Area":"44161432.4139519",
+    "Shape__Length":"38032.2757954579",
+    "GlobalID":"bf38fe7e-9f04-4f53-bdc6-e90321e723d1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.578395,50.86724 ]
+    },
+    "properties": {
+    "OBJECTID":88,
+    "LAD21CD":"E07000062",
+    "LAD21NM":"Hastings",
+    "BNG_E":581528,
+    "BNG_N":110694,
+    "Shape__Area":"29796092.2546616",
+    "Shape__Length":"34102.0632489635",
+    "GlobalID":"746f72df-c473-4001-99ba-ee412ff5a1e8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.007671,50.83341 ]
+    },
+    "properties": {
+    "OBJECTID":89,
+    "LAD21CD":"E07000063",
+    "LAD21NM":"Lewes",
+    "BNG_E":541474,
+    "BNG_N":105686,
+    "Shape__Area":"292106799.086739",
+    "Shape__Length":"168359.743837342",
+    "GlobalID":"2336726c-09aa-41cb-9f43-4ef3026f990c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.542937,50.94871 ]
+    },
+    "properties": {
+    "OBJECTID":90,
+    "LAD21CD":"E07000064",
+    "LAD21NM":"Rother",
+    "BNG_E":578721,
+    "BNG_N":119666,
+    "Shape__Area":"511753822.423019",
+    "Shape__Length":"180531.859680316",
+    "GlobalID":"36c4a76c-8bd7-4df7-a2cb-969ebedb65fc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.205156,50.93322 ]
+    },
+    "properties": {
+    "OBJECTID":91,
+    "LAD21CD":"E07000065",
+    "LAD21NM":"Wealden",
+    "BNG_E":555048,
+    "BNG_N":117180,
+    "Shape__Area":"834948412.071953",
+    "Shape__Length":"225877.835372193",
+    "GlobalID":"0780e151-ae61-4b5a-bfd4-1c10acd5c576"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.475055,51.59036 ]
+    },
+    "properties": {
+    "OBJECTID":92,
+    "LAD21CD":"E07000066",
+    "LAD21NM":"Basildon",
+    "BNG_E":571548,
+    "BNG_N":190848,
+    "Shape__Area":"110001022.9636",
+    "Shape__Length":"85630.4758439723",
+    "GlobalID":"aeb0d225-a860-4313-8182-3d55de902568"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.575911,51.91634 ]
+    },
+    "properties": {
+    "OBJECTID":93,
+    "LAD21CD":"E07000067",
+    "LAD21NM":"Braintree",
+    "BNG_E":577253,
+    "BNG_N":227335,
+    "Shape__Area":"611707972.276634",
+    "Shape__Length":"168686.280036762",
+    "GlobalID":"252eaa16-5442-4c03-b577-82d9b3c4ddf4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.290091,51.64108 ]
+    },
+    "properties": {
+    "OBJECTID":94,
+    "LAD21CD":"E07000068",
+    "LAD21NM":"Brentwood",
+    "BNG_E":558560,
+    "BNG_N":196070,
+    "Shape__Area":"153124049.543587",
+    "Shape__Length":"72339.3648640895",
+    "GlobalID":"70439890-d8fa-4b66-902c-980b16e256c1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.588084,51.56159 ]
+    },
+    "properties": {
+    "OBJECTID":95,
+    "LAD21CD":"E07000069",
+    "LAD21NM":"Castle Point",
+    "BNG_E":579490,
+    "BNG_N":187920,
+    "Shape__Area":"44673516.7391281",
+    "Shape__Length":"163436.866816313",
+    "GlobalID":"e56f9e82-b2cb-4ecc-a84c-ca6db48f2e6c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.491177,51.73503 ]
+    },
+    "properties": {
+    "OBJECTID":96,
+    "LAD21CD":"E07000070",
+    "LAD21NM":"Chelmsford",
+    "BNG_E":572116,
+    "BNG_N":206972,
+    "Shape__Area":"342227523.10643",
+    "Shape__Length":"126395.308774143",
+    "GlobalID":"5afe899f-2f9e-4df5-9cdc-fe66bc76c704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.859777,51.87702 ]
+    },
+    "properties": {
+    "OBJECTID":97,
+    "LAD21CD":"E07000071",
+    "LAD21NM":"Colchester",
+    "BNG_E":596944,
+    "BNG_N":223693,
+    "Shape__Area":"332325215.817406",
+    "Shape__Length":"318167.654850105",
+    "GlobalID":"b72cf57c-90e7-48a8-a9b0-024a343e14a9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.154147,51.71279 ]
+    },
+    "properties": {
+    "OBJECTID":98,
+    "LAD21CD":"E07000072",
+    "LAD21NM":"Epping Forest",
+    "BNG_E":548919,
+    "BNG_N":203758,
+    "Shape__Area":"338984123.599457",
+    "Shape__Length":"123273.057417461",
+    "GlobalID":"dd84653d-8a24-4cd8-bb3f-b7590866e214"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.103888,51.76614 ]
+    },
+    "properties": {
+    "OBJECTID":99,
+    "LAD21CD":"E07000073",
+    "LAD21NM":"Harlow",
+    "BNG_E":545276,
+    "BNG_N":209589,
+    "Shape__Area":"30537917.1762543",
+    "Shape__Length":"28515.3507176647",
+    "GlobalID":"1f6d1739-0db3-4967-8bb0-2cd8808fb1e3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.773106,51.77458 ]
+    },
+    "properties": {
+    "OBJECTID":100,
+    "LAD21CD":"E07000074",
+    "LAD21NM":"Maldon",
+    "BNG_E":591413,
+    "BNG_N":212072,
+    "Shape__Area":"357815639.577393",
+    "Shape__Length":"469757.101657341",
+    "GlobalID":"5406ec3f-f318-49fa-917f-3cd7caae0246"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.683442,51.5909 ]
+    },
+    "properties": {
+    "OBJECTID":101,
+    "LAD21CD":"E07000075",
+    "LAD21NM":"Rochford",
+    "BNG_E":585979,
+    "BNG_N":191417,
+    "Shape__Area":"167092822.610886",
+    "Shape__Length":"234542.603502571",
+    "GlobalID":"5d8537bc-3be1-4f1e-ab53-876fdef51fc2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.108981,51.85674 ]
+    },
+    "properties": {
+    "OBJECTID":102,
+    "LAD21CD":"E07000076",
+    "LAD21NM":"Tendring",
+    "BNG_E":614190,
+    "BNG_N":222141,
+    "Shape__Area":"336324345.712639",
+    "Shape__Length":"442534.783635667",
+    "GlobalID":"072e7bb2-d650-464a-9a85-247d24815663"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.294485,51.93592 ]
+    },
+    "properties": {
+    "OBJECTID":103,
+    "LAD21CD":"E07000077",
+    "LAD21NM":"Uttlesford",
+    "BNG_E":557832,
+    "BNG_N":228865,
+    "Shape__Area":"641182922.292656",
+    "Shape__Length":"166507.733417474",
+    "GlobalID":"1e7af391-eb18-4e78-bf9f-106e2cfa17c1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.07515,51.89861 ]
+    },
+    "properties": {
+    "OBJECTID":104,
+    "LAD21CD":"E07000078",
+    "LAD21NM":"Cheltenham",
+    "BNG_E":394925,
+    "BNG_N":222232,
+    "Shape__Area":"46596069.5640182",
+    "Shape__Length":"38230.9516326001",
+    "GlobalID":"e0392e95-c7b9-4a47-9464-2fe23b390bb1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.97059,51.77255 ]
+    },
+    "properties": {
+    "OBJECTID":105,
+    "LAD21CD":"E07000079",
+    "LAD21NM":"Cotswold",
+    "BNG_E":402125,
+    "BNG_N":208209,
+    "Shape__Area":"1164524408.27798",
+    "Shape__Length":"332444.390575856",
+    "GlobalID":"1f2ec5e7-ac56-49e1-aac1-df0ed033ce0a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.47755,51.81249 ]
+    },
+    "properties": {
+    "OBJECTID":106,
+    "LAD21CD":"E07000080",
+    "LAD21NM":"Forest of Dean",
+    "BNG_E":367175,
+    "BNG_N":212759,
+    "Shape__Area":"525902190.818745",
+    "Shape__Length":"190129.084251616",
+    "GlobalID":"776d5e47-f978-4993-8493-24b135dbba72"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23263,51.84641 ]
+    },
+    "properties": {
+    "OBJECTID":107,
+    "LAD21CD":"E07000081",
+    "LAD21NM":"Gloucester",
+    "BNG_E":384071,
+    "BNG_N":216449,
+    "Shape__Area":"40553089.0741653",
+    "Shape__Length":"33539.6389322303",
+    "GlobalID":"318cd15a-85cd-475f-ba11-7fff40a7c70b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.30818,51.72001 ]
+    },
+    "properties": {
+    "OBJECTID":108,
+    "LAD21CD":"E07000082",
+    "LAD21NM":"Stroud",
+    "BNG_E":378807,
+    "BNG_N":202410,
+    "Shape__Area":"460541978.065842",
+    "Shape__Length":"172781.842223823",
+    "GlobalID":"9447337a-b387-4c21-878f-5a8a0985c032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.19998,51.93485 ]
+    },
+    "properties": {
+    "OBJECTID":109,
+    "LAD21CD":"E07000083",
+    "LAD21NM":"Tewkesbury",
+    "BNG_E":386347,
+    "BNG_N":226279,
+    "Shape__Area":"414414320.159477",
+    "Shape__Length":"204835.336996448",
+    "GlobalID":"62bc3377-1731-4163-9045-da79d0239b2b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.22021,51.25937 ]
+    },
+    "properties": {
+    "OBJECTID":110,
+    "LAD21CD":"E07000084",
+    "LAD21NM":"Basingstoke and Deane",
+    "BNG_E":454508,
+    "BNG_N":151423,
+    "Shape__Area":"633817174.904499",
+    "Shape__Length":"143437.080139487",
+    "GlobalID":"a89b6bc8-1cc9-4b81-95a7-80383f8a82de"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.93971,51.05765 ]
+    },
+    "properties": {
+    "OBJECTID":111,
+    "LAD21CD":"E07000085",
+    "LAD21NM":"East Hampshire",
+    "BNG_E":474404,
+    "BNG_N":129237,
+    "Shape__Area":"514432073.296314",
+    "Shape__Length":"144540.456381259",
+    "GlobalID":"bf46d3d1-a9e0-4872-9491-270193559273"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.32943,50.94872 ]
+    },
+    "properties": {
+    "OBJECTID":112,
+    "LAD21CD":"E07000086",
+    "LAD21NM":"Eastleigh",
+    "BNG_E":447202,
+    "BNG_N":116802,
+    "Shape__Area":"79678661.7594032",
+    "Shape__Length":"75889.8183698162",
+    "GlobalID":"f72050e3-96ee-4064-ac1f-fa114f52901f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.23742,50.85388 ]
+    },
+    "properties": {
+    "OBJECTID":113,
+    "LAD21CD":"E07000087",
+    "LAD21NM":"Fareham",
+    "BNG_E":453774,
+    "BNG_N":106319,
+    "Shape__Area":"74256780.9032478",
+    "Shape__Length":"66342.586483933",
+    "GlobalID":"c127bbc0-3004-4910-96b7-694258c43224"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.16731,50.80636 ]
+    },
+    "properties": {
+    "OBJECTID":114,
+    "LAD21CD":"E07000088",
+    "LAD21NM":"Gosport",
+    "BNG_E":458769,
+    "BNG_N":101088,
+    "Shape__Area":"25373864.36689",
+    "Shape__Length":"40198.8783633606",
+    "GlobalID":"c3873275-14ea-4857-9290-60037648743f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.88321,51.28197 ]
+    },
+    "properties": {
+    "OBJECTID":115,
+    "LAD21CD":"E07000089",
+    "LAD21NM":"Hart",
+    "BNG_E":477985,
+    "BNG_N":154240,
+    "Shape__Area":"215265080.736488",
+    "Shape__Length":"77847.6509709792",
+    "GlobalID":"3e9cbf9a-cbde-49f7-bcc8-30bfe3569ab0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.00398,50.87231 ]
+    },
+    "properties": {
+    "OBJECTID":116,
+    "LAD21CD":"E07000090",
+    "LAD21NM":"Havant",
+    "BNG_E":470178,
+    "BNG_N":108564,
+    "Shape__Area":"55739559.5550423",
+    "Shape__Length":"115625.951907801",
+    "GlobalID":"f36d821c-8bef-4267-a993-0add4ba4fa12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.59293,50.85748 ]
+    },
+    "properties": {
+    "OBJECTID":117,
+    "LAD21CD":"E07000091",
+    "LAD21NM":"New Forest",
+    "BNG_E":428748,
+    "BNG_N":106521,
+    "Shape__Area":"752175262.570518",
+    "Shape__Length":"332043.002895275",
+    "GlobalID":"9689696b-e7a4-4a04-9ed3-f4b76e8b5d16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.76807,51.27815 ]
+    },
+    "properties": {
+    "OBJECTID":118,
+    "LAD21CD":"E07000092",
+    "LAD21NM":"Rushmoor",
+    "BNG_E":486022,
+    "BNG_N":153944,
+    "Shape__Area":"39045039.9988327",
+    "Shape__Length":"31892.9860931807",
+    "GlobalID":"7b023ba5-cc4b-4b0e-aca6-f6b3fbdd3f00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50214,51.13417 ]
+    },
+    "properties": {
+    "OBJECTID":119,
+    "LAD21CD":"E07000093",
+    "LAD21NM":"Test Valley",
+    "BNG_E":434930,
+    "BNG_N":137329,
+    "Shape__Area":"627595194.089409",
+    "Shape__Length":"190816.01168514",
+    "GlobalID":"eb441b34-885e-45c7-8475-c1514a9d52cd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.24393,51.03002 ]
+    },
+    "properties": {
+    "OBJECTID":120,
+    "LAD21CD":"E07000094",
+    "LAD21NM":"Winchester",
+    "BNG_E":453115,
+    "BNG_N":125901,
+    "Shape__Area":"660970091.230888",
+    "Shape__Length":"172157.928469101",
+    "GlobalID":"ed0451ca-21b0-4567-b5a7-fe73f3e3cd1c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.05073,51.7208 ]
+    },
+    "properties": {
+    "OBJECTID":121,
+    "LAD21CD":"E07000095",
+    "LAD21NM":"Broxbourne",
+    "BNG_E":534742,
+    "BNG_N":204251,
+    "Shape__Area":"51442302.8940964",
+    "Shape__Length":"39068.7347762829",
+    "GlobalID":"e9f47050-e451-4ee1-b998-efd06d029406"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.55098,51.76845 ]
+    },
+    "properties": {
+    "OBJECTID":122,
+    "LAD21CD":"E07000096",
+    "LAD21NM":"Dacorum",
+    "BNG_E":500084,
+    "BNG_N":208745,
+    "Shape__Area":"212476395.569191",
+    "Shape__Length":"110103.603607567",
+    "GlobalID":"6b291c46-e66a-45b2-b7a1-df45ea3d32cc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26899,51.68017 ]
+    },
+    "properties": {
+    "OBJECTID":123,
+    "LAD21CD":"E07000098",
+    "LAD21NM":"Hertsmere",
+    "BNG_E":519774,
+    "BNG_N":199352,
+    "Shape__Area":"101128162.404755",
+    "Shape__Length":"61228.1015167854",
+    "GlobalID":"3fec5329-2d04-4841-9f63-d303824a21a9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.22314,51.95738 ]
+    },
+    "properties": {
+    "OBJECTID":124,
+    "LAD21CD":"E07000099",
+    "LAD21NM":"North Hertfordshire",
+    "BNG_E":522192,
+    "BNG_N":230256,
+    "Shape__Area":"375382315.75721",
+    "Shape__Length":"168316.641493228",
+    "GlobalID":"7c131115-d3cd-4016-bc45-22228eee957d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.45005,51.65632 ]
+    },
+    "properties": {
+    "OBJECTID":125,
+    "LAD21CD":"E07000102",
+    "LAD21NM":"Three Rivers",
+    "BNG_E":507313,
+    "BNG_N":196418,
+    "Shape__Area":"88824172.4603958",
+    "Shape__Length":"74112.5121827277",
+    "GlobalID":"2b403c3b-e915-4d9f-90fa-5c8f71433e40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.40429,51.6717 ]
+    },
+    "properties": {
+    "OBJECTID":126,
+    "LAD21CD":"E07000103",
+    "LAD21NM":"Watford",
+    "BNG_E":510441,
+    "BNG_N":198197,
+    "Shape__Area":"21430351.4039917",
+    "Shape__Length":"26392.3637917563",
+    "GlobalID":"80aeace8-e47d-4bc5-a237-c58c772c2886"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.823374,51.13096 ]
+    },
+    "properties": {
+    "OBJECTID":127,
+    "LAD21CD":"E07000105",
+    "LAD21NM":"Ashford",
+    "BNG_E":597640,
+    "BNG_N":140644,
+    "Shape__Area":"580617311.422043",
+    "Shape__Length":"149446.336252667",
+    "GlobalID":"70cf50a8-f273-4808-bd87-8eab08eb4079"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.096342,51.28102 ]
+    },
+    "properties": {
+    "OBJECTID":128,
+    "LAD21CD":"E07000106",
+    "LAD21NM":"Canterbury",
+    "BNG_E":616032,
+    "BNG_N":158096,
+    "Shape__Area":"308752563.33046",
+    "Shape__Length":"134481.533238153",
+    "GlobalID":"d0714395-b544-4043-8b6c-156d4b4eff4c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.245276,51.43373 ]
+    },
+    "properties": {
+    "OBJECTID":129,
+    "LAD21CD":"E07000107",
+    "LAD21NM":"Dartford",
+    "BNG_E":556167,
+    "BNG_N":172917,
+    "Shape__Area":"72725578.2278366",
+    "Shape__Length":"57309.3850914059",
+    "GlobalID":"85dd4eeb-ba34-44ac-9e03-f7895b550c0d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.276887,51.21176 ]
+    },
+    "properties": {
+    "OBJECTID":130,
+    "LAD21CD":"E07000108",
+    "LAD21NM":"Dover",
+    "BNG_E":628964,
+    "BNG_N":150942,
+    "Shape__Area":"315337969.559326",
+    "Shape__Length":"148160.693909828",
+    "GlobalID":"a1a064bc-c624-4531-a500-205bd118210c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.398744,51.39649 ]
+    },
+    "properties": {
+    "OBJECTID":131,
+    "LAD21CD":"E07000109",
+    "LAD21NM":"Gravesham",
+    "BNG_E":566969,
+    "BNG_N":169114,
+    "Shape__Area":"98991344.3912201",
+    "Shape__Length":"60516.7211625426",
+    "GlobalID":"09a4719a-25b9-41d8-bdaa-bd3eb01fdeb5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.584061,51.23566 ]
+    },
+    "properties": {
+    "OBJECTID":132,
+    "LAD21CD":"E07000110",
+    "LAD21NM":"Maidstone",
+    "BNG_E":580489,
+    "BNG_N":151670,
+    "Shape__Area":"393329513.555687",
+    "Shape__Length":"122980.443774681",
+    "GlobalID":"010dcd37-7ace-4ce1-a018-024537efb45c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.188936,51.27563 ]
+    },
+    "properties": {
+    "OBJECTID":133,
+    "LAD21CD":"E07000111",
+    "LAD21NM":"Sevenoaks",
+    "BNG_E":552776,
+    "BNG_N":155218,
+    "Shape__Area":"370346869.562752",
+    "Shape__Length":"134435.330146171",
+    "GlobalID":"42ca66f8-f514-46a3-9e1e-2fc53570ae8b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.000795,51.07213 ]
+    },
+    "properties": {
+    "OBJECTID":134,
+    "LAD21CD":"E07000112",
+    "LAD21NM":"Folkestone and Hythe",
+    "BNG_E":610318,
+    "BNG_N":134595,
+    "Shape__Area":"356921036.861351",
+    "Shape__Length":"148969.398554026",
+    "GlobalID":"d3962a07-9604-4886-9128-a587bd6e030b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.776893,51.32251 ]
+    },
+    "properties": {
+    "OBJECTID":135,
+    "LAD21CD":"E07000113",
+    "LAD21NM":"Swale",
+    "BNG_E":593583,
+    "BNG_N":161818,
+    "Shape__Area":"373436666.268829",
+    "Shape__Length":"347823.073920435",
+    "GlobalID":"3fa27215-9973-440b-8bb3-e0ea70167fec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.328226,51.35252 ]
+    },
+    "properties": {
+    "OBJECTID":136,
+    "LAD21CD":"E07000114",
+    "LAD21NM":"Thanet",
+    "BNG_E":631839,
+    "BNG_N":166752,
+    "Shape__Area":"103609163.126335",
+    "Shape__Length":"65351.0799155183",
+    "GlobalID":"6417fa0f-8664-42c6-89e1-4600a3e607b2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.349306,51.26064 ]
+    },
+    "properties": {
+    "OBJECTID":137,
+    "LAD21CD":"E07000115",
+    "LAD21NM":"Tonbridge and Malling",
+    "BNG_E":564014,
+    "BNG_N":153898,
+    "Shape__Area":"240114269.485329",
+    "Shape__Length":"133211.273866146",
+    "GlobalID":"72f6ec3a-4312-4993-bb45-c42ecba669cc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.471632,51.10254 ]
+    },
+    "properties": {
+    "OBJECTID":138,
+    "LAD21CD":"E07000116",
+    "LAD21NM":"Tunbridge Wells",
+    "BNG_E":573139,
+    "BNG_N":136599,
+    "Shape__Area":"331328858.204216",
+    "Shape__Length":"150590.348271022",
+    "GlobalID":"52bf3183-9731-4840-998c-ac73885f58b4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2308,53.77406 ]
+    },
+    "properties": {
+    "OBJECTID":139,
+    "LAD21CD":"E07000117",
+    "LAD21NM":"Burnley",
+    "BNG_E":384886,
+    "BNG_N":430882,
+    "Shape__Area":"110683998.008865",
+    "Shape__Length":"57764.4790119146",
+    "GlobalID":"ef8a61c2-c1de-43cb-bbd4-b857c594bff5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.61921,53.6724 ]
+    },
+    "properties": {
+    "OBJECTID":140,
+    "LAD21CD":"E07000118",
+    "LAD21NM":"Chorley",
+    "BNG_E":359189,
+    "BNG_N":419724,
+    "Shape__Area":"202762136.977539",
+    "Shape__Length":"114515.887165166",
+    "GlobalID":"26c4dd63-2e59-4cca-aeef-55cb3b58140d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.91914,53.79709 ]
+    },
+    "properties": {
+    "OBJECTID":141,
+    "LAD21CD":"E07000119",
+    "LAD21NM":"Fylde",
+    "BNG_E":339554,
+    "BNG_N":433811,
+    "Shape__Area":"165696809.242523",
+    "Shape__Length":"138118.3976187",
+    "GlobalID":"0fe86ec5-bea1-4558-946c-fa6a82cb58ba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.38964,53.75648 ]
+    },
+    "properties": {
+    "OBJECTID":142,
+    "LAD21CD":"E07000120",
+    "LAD21NM":"Hyndburn",
+    "BNG_E":374407,
+    "BNG_N":428971,
+    "Shape__Area":"73006538.3963776",
+    "Shape__Length":"42726.6455330733",
+    "GlobalID":"36297091-5c31-42c9-8060-0023bec8e45d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.6603,54.07901 ]
+    },
+    "properties": {
+    "OBJECTID":143,
+    "LAD21CD":"E07000121",
+    "LAD21NM":"Lancaster",
+    "BNG_E":356896,
+    "BNG_N":464988,
+    "Shape__Area":"566931386.991028",
+    "Shape__Length":"345319.329046166",
+    "GlobalID":"511522bd-fa1a-4bba-976c-8a01a5a066b1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.18957,53.88636 ]
+    },
+    "properties": {
+    "OBJECTID":144,
+    "LAD21CD":"E07000122",
+    "LAD21NM":"Pendle",
+    "BNG_E":387637,
+    "BNG_N":443368,
+    "Shape__Area":"169380095.937088",
+    "Shape__Length":"79243.6273907022",
+    "GlobalID":"5f5b2305-b7f4-4f45-a310-96db46182c2f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.71809,53.82202 ]
+    },
+    "properties": {
+    "OBJECTID":145,
+    "LAD21CD":"E07000123",
+    "LAD21NM":"Preston",
+    "BNG_E":352825,
+    "BNG_N":436432,
+    "Shape__Area":"142284181.587555",
+    "Shape__Length":"82804.9151529498",
+    "GlobalID":"9ae3d752-fcf1-4cbb-972c-601af80968ca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4174,53.9245 ]
+    },
+    "properties": {
+    "OBJECTID":146,
+    "LAD21CD":"E07000124",
+    "LAD21NM":"Ribble Valley",
+    "BNG_E":372687,
+    "BNG_N":447676,
+    "Shape__Area":"584462427.345154",
+    "Shape__Length":"150571.019012166",
+    "GlobalID":"4ed8b0c4-daa0-4db8-ba1f-6f3f38d0f63a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.26149,53.68478 ]
+    },
+    "properties": {
+    "OBJECTID":147,
+    "LAD21CD":"E07000125",
+    "LAD21NM":"Rossendale",
+    "BNG_E":382827,
+    "BNG_N":420955,
+    "Shape__Area":"138040902.83493",
+    "Shape__Length":"71149.6678904944",
+    "GlobalID":"3de936e0-6bf0-4fe9-90cc-33e00ba1dd10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.72871,53.72675 ]
+    },
+    "properties": {
+    "OBJECTID":148,
+    "LAD21CD":"E07000126",
+    "LAD21NM":"South Ribble",
+    "BNG_E":352017,
+    "BNG_N":425840,
+    "Shape__Area":"113141866.936462",
+    "Shape__Length":"105351.716728635",
+    "GlobalID":"9ba97b2e-66aa-4670-b27e-15e282527a40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.86893,53.61283 ]
+    },
+    "properties": {
+    "OBJECTID":149,
+    "LAD21CD":"E07000127",
+    "LAD21NM":"West Lancashire",
+    "BNG_E":342611,
+    "BNG_N":413270,
+    "Shape__Area":"346632973.114281",
+    "Shape__Length":"227324.589989578",
+    "GlobalID":"37ef6945-8322-4260-8c62-ed2568993af0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.80359,53.89991 ]
+    },
+    "properties": {
+    "OBJECTID":150,
+    "LAD21CD":"E07000128",
+    "LAD21NM":"Wyre",
+    "BNG_E":347295,
+    "BNG_N":445159,
+    "Shape__Area":"282164810.760468",
+    "Shape__Length":"212730.721154546",
+    "GlobalID":"e7303f8a-277d-4864-b966-4a847c65dd5a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.19887,52.57706 ]
+    },
+    "properties": {
+    "OBJECTID":151,
+    "LAD21CD":"E07000129",
+    "LAD21NM":"Blaby",
+    "BNG_E":454385,
+    "BNG_N":297994,
+    "Shape__Area":"130468677.480431",
+    "Shape__Length":"100819.772020311",
+    "GlobalID":"702f6e11-d57c-42df-b6c7-28ee7fdbe1a0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.13694,52.7399 ]
+    },
+    "properties": {
+    "OBJECTID":152,
+    "LAD21CD":"E07000130",
+    "LAD21NM":"Charnwood",
+    "BNG_E":458365,
+    "BNG_N":316155,
+    "Shape__Area":"279042273.104355",
+    "Shape__Length":"115474.270424313",
+    "GlobalID":"3366ebde-59b6-4310-8be5-ad74167cefff"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.90229,52.53766 ]
+    },
+    "properties": {
+    "OBJECTID":153,
+    "LAD21CD":"E07000131",
+    "LAD21NM":"Harborough",
+    "BNG_E":474549,
+    "BNG_N":293875,
+    "Shape__Area":"592692043.934021",
+    "Shape__Length":"185950.639810548",
+    "GlobalID":"17b5d071-5194-4cb8-8fc6-466577f06529"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.41755,52.60877 ]
+    },
+    "properties": {
+    "OBJECTID":154,
+    "LAD21CD":"E07000132",
+    "LAD21NM":"Hinckley and Bosworth",
+    "BNG_E":439538,
+    "BNG_N":301379,
+    "Shape__Area":"297351487.709793",
+    "Shape__Length":"111545.991773985",
+    "GlobalID":"abd7315d-2242-416d-a676-bde8e43bbb26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.8544,52.80329 ]
+    },
+    "properties": {
+    "OBJECTID":155,
+    "LAD21CD":"E07000133",
+    "LAD21NM":"Melton",
+    "BNG_E":477328,
+    "BNG_N":323472,
+    "Shape__Area":"481380509.624313",
+    "Shape__Length":"140629.285236827",
+    "GlobalID":"874d321a-c55e-4ad4-9f10-82b53b1ff480"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.42209,52.7425 ]
+    },
+    "properties": {
+    "OBJECTID":156,
+    "LAD21CD":"E07000134",
+    "LAD21NM":"North West Leicestershire",
+    "BNG_E":439111,
+    "BNG_N":316252,
+    "Shape__Area":"279328076.043144",
+    "Shape__Length":"116453.02578521",
+    "GlobalID":"c2f3ffb9-a091-455f-922f-5e199d5b74b2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.093,52.58875 ]
+    },
+    "properties": {
+    "OBJECTID":157,
+    "LAD21CD":"E07000135",
+    "LAD21NM":"Oadby and Wigston",
+    "BNG_E":461543,
+    "BNG_N":299379,
+    "Shape__Area":"23526096.5257263",
+    "Shape__Length":"31171.7329461944",
+    "GlobalID":"b4eef1a2-3809-4841-a86c-a105aa594e1f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11218,52.97794 ]
+    },
+    "properties": {
+    "OBJECTID":158,
+    "LAD21CD":"E07000136",
+    "LAD21NM":"Boston",
+    "BNG_E":526851,
+    "BNG_N":343953,
+    "Shape__Area":"364008573.376831",
+    "Shape__Length":"440527.091352853",
+    "GlobalID":"aa65df8a-44a9-49f6-bed7-2c586d6b0345"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.020516,53.26446 ]
+    },
+    "properties": {
+    "OBJECTID":159,
+    "LAD21CD":"E07000137",
+    "LAD21NM":"East Lindsey",
+    "BNG_E":534861,
+    "BNG_N":376064,
+    "Shape__Area":"1766773259.03537",
+    "Shape__Length":"373175.487592905",
+    "GlobalID":"6772436d-9ab6-4b52-b85e-a2a71d945799"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.55848,53.21921 ]
+    },
+    "properties": {
+    "OBJECTID":160,
+    "LAD21CD":"E07000138",
+    "LAD21NM":"Lincoln",
+    "BNG_E":496347,
+    "BNG_N":370096,
+    "Shape__Area":"35690274.4632416",
+    "Shape__Length":"32969.7629878016",
+    "GlobalID":"f0870557-37ef-4038-9e2d-71eaa46e3b80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4767,53.08058 ]
+    },
+    "properties": {
+    "OBJECTID":161,
+    "LAD21CD":"E07000139",
+    "LAD21NM":"North Kesteven",
+    "BNG_E":502135,
+    "BNG_N":354788,
+    "Shape__Area":"922471383.408615",
+    "Shape__Length":"181807.630394148",
+    "GlobalID":"c6345ba4-49a1-4429-9d7a-88148002a8d2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.03057,52.78758 ]
+    },
+    "properties": {
+    "OBJECTID":162,
+    "LAD21CD":"E07000140",
+    "LAD21NM":"South Holland",
+    "BNG_E":532910,
+    "BNG_N":322928,
+    "Shape__Area":"750076114.073624",
+    "Shape__Length":"438385.626571411",
+    "GlobalID":"5c5e8ecf-2c93-4f19-b825-18ba2d26927d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.49565,52.84885 ]
+    },
+    "properties": {
+    "OBJECTID":163,
+    "LAD21CD":"E07000141",
+    "LAD21NM":"South Kesteven",
+    "BNG_E":501406,
+    "BNG_N":328986,
+    "Shape__Area":"942585798.373444",
+    "Shape__Length":"209816.236294167",
+    "GlobalID":"12309a8d-e8ea-4722-b282-4540a677164e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.50774,53.40044 ]
+    },
+    "properties": {
+    "OBJECTID":164,
+    "LAD21CD":"E07000142",
+    "LAD21NM":"West Lindsey",
+    "BNG_E":499314,
+    "BNG_N":390326,
+    "Shape__Area":"1155731961.18358",
+    "Shape__Length":"249630.480178222",
+    "GlobalID":"f47eabb6-5f7a-480e-aac2-7442997d96ce"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.818716,52.59421 ]
+    },
+    "properties": {
+    "OBJECTID":165,
+    "LAD21CD":"E07000143",
+    "LAD21NM":"Breckland",
+    "BNG_E":591015,
+    "BNG_N":303330,
+    "Shape__Area":"1305116638.26154",
+    "Shape__Length":"239527.48442548",
+    "GlobalID":"28d442f3-cdfa-4307-b9ad-0b188060e2b3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.252317,52.69622 ]
+    },
+    "properties": {
+    "OBJECTID":166,
+    "LAD21CD":"E07000144",
+    "LAD21NM":"Broadland",
+    "BNG_E":619864,
+    "BNG_N":315909,
+    "Shape__Area":"552060635.568771",
+    "Shape__Length":"219128.148673154",
+    "GlobalID":"f7b78bba-e0bf-4509-ae7d-96b6b5929f6e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.64951,52.68439 ]
+    },
+    "properties": {
+    "OBJECTID":167,
+    "LAD21CD":"E07000145",
+    "LAD21NM":"Great Yarmouth",
+    "BNG_E":646761,
+    "BNG_N":315881,
+    "Shape__Area":"174314101.655975",
+    "Shape__Length":"145908.017098499",
+    "GlobalID":"cdcd3b19-303b-4a06-8d5e-0b8b1a3a8db5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.533243,52.71283 ]
+    },
+    "properties": {
+    "OBJECTID":168,
+    "LAD21CD":"E07000146",
+    "LAD21NM":"King's Lynn and West Norfolk",
+    "BNG_E":571219,
+    "BNG_N":315805,
+    "Shape__Area":"1439522738.02139",
+    "Shape__Length":"695922.61144504",
+    "GlobalID":"d6e007a0-75c9-450e-ada8-8478355e3f1e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.132099,52.83389 ]
+    },
+    "properties": {
+    "OBJECTID":169,
+    "LAD21CD":"E07000147",
+    "LAD21NM":"North Norfolk",
+    "BNG_E":611076,
+    "BNG_N":330857,
+    "Shape__Area":"967553195.426819",
+    "Shape__Length":"600214.69202561",
+    "GlobalID":"49cd82c3-7391-42f5-a4f0-bf217ec7ab78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.284979,52.64013 ]
+    },
+    "properties": {
+    "OBJECTID":170,
+    "LAD21CD":"E07000148",
+    "LAD21NM":"Norwich",
+    "BNG_E":622355,
+    "BNG_N":309773,
+    "Shape__Area":"39021966.2861481",
+    "Shape__Length":"52686.5007648366",
+    "GlobalID":"9f64d09c-7112-40f7-83f6-9121996e3f57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.373233,52.51218 ]
+    },
+    "properties": {
+    "OBJECTID":171,
+    "LAD21CD":"E07000149",
+    "LAD21NM":"South Norfolk",
+    "BNG_E":628990,
+    "BNG_N":295823,
+    "Shape__Area":"907576581.387955",
+    "Shape__Length":"266872.270403056",
+    "GlobalID":"cf52996f-2cfc-47fa-8364-f0482b8386fe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.16168,54.05376 ]
+    },
+    "properties": {
+    "OBJECTID":172,
+    "LAD21CD":"E07000163",
+    "LAD21NM":"Craven",
+    "BNG_E":389513,
+    "BNG_N":461989,
+    "Shape__Area":"1178807442.73689",
+    "Shape__Length":"199883.569852491",
+    "GlobalID":"e4c270bf-df73-4ba3-893a-8d2a532c5e32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.34049,54.30872 ]
+    },
+    "properties": {
+    "OBJECTID":173,
+    "LAD21CD":"E07000164",
+    "LAD21NM":"Hambleton",
+    "BNG_E":443009,
+    "BNG_N":490546,
+    "Shape__Area":"1311242676.26678",
+    "Shape__Length":"298549.716150029",
+    "GlobalID":"8668539e-c3f0-49a8-b2e8-27ffd1198416"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.58161,54.07708 ]
+    },
+    "properties": {
+    "OBJECTID":174,
+    "LAD21CD":"E07000165",
+    "LAD21NM":"Harrogate",
+    "BNG_E":427473,
+    "BNG_N":464652,
+    "Shape__Area":"1309117894.68939",
+    "Shape__Length":"246983.783503523",
+    "GlobalID":"dcd54514-d344-42a3-afb4-cb64defe36ba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.98552,54.35761 ]
+    },
+    "properties": {
+    "OBJECTID":175,
+    "LAD21CD":"E07000166",
+    "LAD21NM":"Richmondshire",
+    "BNG_E":401039,
+    "BNG_N":495786,
+    "Shape__Area":"1318702675.0249",
+    "Shape__Length":"221695.052013126",
+    "GlobalID":"2a1d173b-dfb1-4305-aabe-d6e8bec856c1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.84277,54.20021 ]
+    },
+    "properties": {
+    "OBJECTID":176,
+    "LAD21CD":"E07000167",
+    "LAD21NM":"Ryedale",
+    "BNG_E":475590,
+    "BNG_N":478890,
+    "Shape__Area":"1506594092.81944",
+    "Shape__Length":"249873.201632971",
+    "GlobalID":"fe20b604-ac0b-46b4-94a8-d353f18793e9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.52778,54.3465 ]
+    },
+    "properties": {
+    "OBJECTID":177,
+    "LAD21CD":"E07000168",
+    "LAD21NM":"Scarborough",
+    "BNG_E":495798,
+    "BNG_N":495548,
+    "Shape__Area":"816188424.700211",
+    "Shape__Length":"241939.621096429",
+    "GlobalID":"998c8f1e-82ec-4af1-b1a5-48cd6cbe6b0f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.12908,53.73327 ]
+    },
+    "properties": {
+    "OBJECTID":178,
+    "LAD21CD":"E07000169",
+    "LAD21NM":"Selby",
+    "BNG_E":457551,
+    "BNG_N":426670,
+    "Shape__Area":"599315524.903275",
+    "Shape__Length":"264847.131710104",
+    "GlobalID":"dcedb356-4d03-43ee-b371-18fc3848f90b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.25422,53.09747 ]
+    },
+    "properties": {
+    "OBJECTID":179,
+    "LAD21CD":"E07000170",
+    "LAD21NM":"Ashfield",
+    "BNG_E":450035,
+    "BNG_N":355843,
+    "Shape__Area":"109557941.222733",
+    "Shape__Length":"69174.7010836954",
+    "GlobalID":"8f86d4ae-5049-433f-8476-ce034cc9da56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9787,53.35604 ]
+    },
+    "properties": {
+    "OBJECTID":180,
+    "LAD21CD":"E07000171",
+    "LAD21NM":"Bassetlaw",
+    "BNG_E":468073,
+    "BNG_N":384835,
+    "Shape__Area":"637803646.750473",
+    "Shape__Length":"159734.427115588",
+    "GlobalID":"426e9485-9b0e-4f20-85fa-db0d9d7c52aa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.25944,52.9721 ]
+    },
+    "properties": {
+    "OBJECTID":181,
+    "LAD21CD":"E07000172",
+    "LAD21NM":"Broxtowe",
+    "BNG_E":449829,
+    "BNG_N":341893,
+    "Shape__Area":"80098842.6462555",
+    "Shape__Length":"65999.6165048591",
+    "GlobalID":"6d8f1c0f-9148-46a5-8cf9-a425e73994c8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.11907,53.02434 ]
+    },
+    "properties": {
+    "OBJECTID":182,
+    "LAD21CD":"E07000173",
+    "LAD21NM":"Gedling",
+    "BNG_E":459184,
+    "BNG_N":347811,
+    "Shape__Area":"119981506.141388",
+    "Shape__Length":"69754.3805457455",
+    "GlobalID":"21445a7f-b455-4c6b-9a17-0c9e12398cb1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.17804,53.16703 ]
+    },
+    "properties": {
+    "OBJECTID":183,
+    "LAD21CD":"E07000174",
+    "LAD21NM":"Mansfield",
+    "BNG_E":455047,
+    "BNG_N":363637,
+    "Shape__Area":"76696899.0271759",
+    "Shape__Length":"51090.8148505841",
+    "GlobalID":"93529755-dd26-4226-84a6-dc2470210bb5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.94643,53.1096 ]
+    },
+    "properties": {
+    "OBJECTID":184,
+    "LAD21CD":"E07000175",
+    "LAD21NM":"Newark and Sherwood",
+    "BNG_E":470624,
+    "BNG_N":357451,
+    "Shape__Area":"651340472.18425",
+    "Shape__Length":"187422.294092544",
+    "GlobalID":"9c9fb868-87b6-4712-ba45-5ea9d6955fa3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.01097,52.9124 ]
+    },
+    "properties": {
+    "OBJECTID":185,
+    "LAD21CD":"E07000176",
+    "LAD21NM":"Rushcliffe",
+    "BNG_E":466606,
+    "BNG_N":335453,
+    "Shape__Area":"409231535.975937",
+    "Shape__Length":"123324.204812503",
+    "GlobalID":"76c591fa-2849-4709-869a-cc7cd2b27f8b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.28506,51.8872 ]
+    },
+    "properties": {
+    "OBJECTID":186,
+    "LAD21CD":"E07000177",
+    "LAD21NM":"Cherwell",
+    "BNG_E":449301,
+    "BNG_N":221201,
+    "Shape__Area":"588741166.442505",
+    "Shape__Length":"225626.040390185",
+    "GlobalID":"d894c34a-3fb8-44e6-b9ab-2b6e247ebf5a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.24405,51.75357 ]
+    },
+    "properties": {
+    "OBJECTID":187,
+    "LAD21CD":"E07000178",
+    "LAD21NM":"Oxford",
+    "BNG_E":452277,
+    "BNG_N":206368,
+    "Shape__Area":"45602916.3576279",
+    "Shape__Length":"34999.5348550061",
+    "GlobalID":"f269958a-5913-4a85-8712-e8b935bbf860"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.07847,51.62288 ]
+    },
+    "properties": {
+    "OBJECTID":188,
+    "LAD21CD":"E07000179",
+    "LAD21NM":"South Oxfordshire",
+    "BNG_E":463890,
+    "BNG_N":191964,
+    "Shape__Area":"678521424.508331",
+    "Shape__Length":"205399.796379623",
+    "GlobalID":"2ac9fe57-0055-4676-bb70-c38d1a115732"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.48543,51.65443 ]
+    },
+    "properties": {
+    "OBJECTID":189,
+    "LAD21CD":"E07000180",
+    "LAD21NM":"Vale of White Horse",
+    "BNG_E":435693,
+    "BNG_N":195197,
+    "Shape__Area":"578660266.643173",
+    "Shape__Length":"175976.842181864",
+    "GlobalID":"3f520db1-892e-461e-8dd8-4432d6d7daaa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50292,51.8399 ]
+    },
+    "properties": {
+    "OBJECTID":190,
+    "LAD21CD":"E07000181",
+    "LAD21NM":"West Oxfordshire",
+    "BNG_E":434343,
+    "BNG_N":215816,
+    "Shape__Area":"714422027.377594",
+    "Shape__Length":"160247.497018012",
+    "GlobalID":"5f471675-ec8f-48e6-92f1-f67819240150"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.54178,51.19476 ]
+    },
+    "properties": {
+    "OBJECTID":191,
+    "LAD21CD":"E07000187",
+    "LAD21NM":"Mendip",
+    "BNG_E":362238,
+    "BNG_N":144090,
+    "Shape__Area":"739435425.721313",
+    "Shape__Length":"198849.803772948",
+    "GlobalID":"d046ebec-8548-4d57-9e28-26b9a243d3e7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.88246,51.19186 ]
+    },
+    "properties": {
+    "OBJECTID":192,
+    "LAD21CD":"E07000188",
+    "LAD21NM":"Sedgemoor",
+    "BNG_E":338429,
+    "BNG_N":143998,
+    "Shape__Area":"564223845.124126",
+    "Shape__Length":"258006.977750277",
+    "GlobalID":"ce79f4c7-562a-4efd-a685-a5410787faa9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.77588,50.98399 ]
+    },
+    "properties": {
+    "OBJECTID":193,
+    "LAD21CD":"E07000189",
+    "LAD21NM":"South Somerset",
+    "BNG_E":345633,
+    "BNG_N":120798,
+    "Shape__Area":"959040235.642868",
+    "Shape__Length":"241316.735903672",
+    "GlobalID":"1846aff3-0efe-4ec7-9c3c-ab57da099f51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.98277,52.70166 ]
+    },
+    "properties": {
+    "OBJECTID":194,
+    "LAD21CD":"E07000192",
+    "LAD21NM":"Cannock Chase",
+    "BNG_E":401261,
+    "BNG_N":311553,
+    "Shape__Area":"78882571.1931686",
+    "Shape__Length":"50127.5676827054",
+    "GlobalID":"96e6e912-e1d3-4d63-a4f2-0981d9a9cb28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.81438,52.83651 ]
+    },
+    "properties": {
+    "OBJECTID":195,
+    "LAD21CD":"E07000193",
+    "LAD21NM":"East Staffordshire",
+    "BNG_E":412601,
+    "BNG_N":326569,
+    "Shape__Area":"389987162.339035",
+    "Shape__Length":"183696.080171671",
+    "GlobalID":"f6a13907-dbbc-4027-9246-0c744bc1863a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.76049,52.69615 ]
+    },
+    "properties": {
+    "OBJECTID":196,
+    "LAD21CD":"E07000194",
+    "LAD21NM":"Lichfield",
+    "BNG_E":416283,
+    "BNG_N":310967,
+    "Shape__Area":"331294331.289627",
+    "Shape__Length":"127468.123665333",
+    "GlobalID":"77195025-de26-4915-8a35-90a03798119d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.32631,53.00345 ]
+    },
+    "properties": {
+    "OBJECTID":197,
+    "LAD21CD":"E07000195",
+    "LAD21NM":"Newcastle-under-Lyme",
+    "BNG_E":378199,
+    "BNG_N":345174,
+    "Shape__Area":"210957320.579865",
+    "Shape__Length":"108258.877906413",
+    "GlobalID":"9ce381c6-5e13-44c2-bfc7-c16d555a2b9b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15495,52.69692 ]
+    },
+    "properties": {
+    "OBJECTID":198,
+    "LAD21CD":"E07000196",
+    "LAD21NM":"South Staffordshire",
+    "BNG_E":389625,
+    "BNG_N":311037,
+    "Shape__Area":"407322253.063065",
+    "Shape__Length":"184894.034988598",
+    "GlobalID":"89c3d209-00f1-41c9-8746-dcc2ac3e5043"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.16475,52.84792 ]
+    },
+    "properties": {
+    "OBJECTID":199,
+    "LAD21CD":"E07000197",
+    "LAD21NM":"Stafford",
+    "BNG_E":389001,
+    "BNG_N":327836,
+    "Shape__Area":"598172232.706764",
+    "Shape__Length":"159078.504004003",
+    "GlobalID":"cc1ccf05-0f8c-47c8-ba2a-e3057ad8e014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.99334,53.06924 ]
+    },
+    "properties": {
+    "OBJECTID":200,
+    "LAD21CD":"E07000198",
+    "LAD21NM":"Staffordshire Moorlands",
+    "BNG_E":400543,
+    "BNG_N":352443,
+    "Shape__Area":"575849820.397621",
+    "Shape__Length":"152448.005729777",
+    "GlobalID":"7386a977-260e-4d23-adc3-b91b3f663612"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.68451,52.62031 ]
+    },
+    "properties": {
+    "OBJECTID":201,
+    "LAD21CD":"E07000199",
+    "LAD21NM":"Tamworth",
+    "BNG_E":421455,
+    "BNG_N":302550,
+    "Shape__Area":"30850718.76548",
+    "Shape__Length":"30729.9145727779",
+    "GlobalID":"45208dc6-be48-4284-bbe1-a398de0747d0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.916149,52.0645 ]
+    },
+    "properties": {
+    "OBJECTID":202,
+    "LAD21CD":"E07000200",
+    "LAD21NM":"Babergh",
+    "BNG_E":599987,
+    "BNG_N":244692,
+    "Shape__Area":"595116562.536148",
+    "Shape__Length":"210447.779062672",
+    "GlobalID":"a8e79d12-5e9f-4e2b-8277-613e8401dc53"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.166145,52.05592 ]
+    },
+    "properties": {
+    "OBJECTID":203,
+    "LAD21CD":"E07000202",
+    "LAD21NM":"Ipswich",
+    "BNG_E":617161,
+    "BNG_N":244456,
+    "Shape__Area":"39509795.4510498",
+    "Shape__Length":"45342.2917616399",
+    "GlobalID":"7471b630-8bb7-4f30-9bb0-d68913b7b106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.096953,52.21859 ]
+    },
+    "properties": {
+    "OBJECTID":204,
+    "LAD21CD":"E07000203",
+    "LAD21NM":"Mid Suffolk",
+    "BNG_E":611646,
+    "BNG_N":262338,
+    "Shape__Area":"871070646.005127",
+    "Shape__Length":"191154.578858461",
+    "GlobalID":"0072deb1-8f7c-49ce-b1e9-e2d1851253cb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.39441,51.36098 ]
+    },
+    "properties": {
+    "OBJECTID":205,
+    "LAD21CD":"E07000207",
+    "LAD21NM":"Elmbridge",
+    "BNG_E":511882,
+    "BNG_N":163658,
+    "Shape__Area":"96334274.6957779",
+    "Shape__Length":"52205.9992807471",
+    "GlobalID":"370dc030-337e-4b95-8247-8bfeb237237b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.26172,51.33945 ]
+    },
+    "properties": {
+    "OBJECTID":206,
+    "LAD21CD":"E07000208",
+    "LAD21NM":"Epsom and Ewell",
+    "BNG_E":521176,
+    "BNG_N":161475,
+    "Shape__Area":"34079152.8424225",
+    "Shape__Length":"28503.6676331565",
+    "GlobalID":"d878fe86-429b-4d77-8544-dd4e5089351a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.56257,51.25366 ]
+    },
+    "properties": {
+    "OBJECTID":207,
+    "LAD21CD":"E07000209",
+    "LAD21NM":"Guildford",
+    "BNG_E":500408,
+    "BNG_N":151481,
+    "Shape__Area":"270931187.387306",
+    "Shape__Length":"128414.098855641",
+    "GlobalID":"822bde4a-c7e7-4c8f-ac9c-5e2ca758bf68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.30603,51.22749 ]
+    },
+    "properties": {
+    "OBJECTID":208,
+    "LAD21CD":"E07000210",
+    "LAD21NM":"Mole Valley",
+    "BNG_E":518377,
+    "BNG_N":148953,
+    "Shape__Area":"258320952.516853",
+    "Shape__Length":"105402.687786554",
+    "GlobalID":"20379213-6646-4d7b-a167-62b476590348"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19871,51.25846 ]
+    },
+    "properties": {
+    "OBJECTID":209,
+    "LAD21CD":"E07000211",
+    "LAD21NM":"Reigate and Banstead",
+    "BNG_E":525786,
+    "BNG_N":152574,
+    "Shape__Area":"129143924.297302",
+    "Shape__Length":"79923.5079804309",
+    "GlobalID":"cb1848aa-54e3-401d-8b6e-ad7405fa98c1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.53855,51.39273 ]
+    },
+    "properties": {
+    "OBJECTID":210,
+    "LAD21CD":"E07000212",
+    "LAD21NM":"Runnymede",
+    "BNG_E":501777,
+    "BNG_N":166979,
+    "Shape__Area":"78040686.6911774",
+    "Shape__Length":"45677.2898592863",
+    "GlobalID":"1fd44958-5407-4c18-bfed-f243a4a3f5e5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.46254,51.41552 ]
+    },
+    "properties": {
+    "OBJECTID":211,
+    "LAD21CD":"E07000213",
+    "LAD21NM":"Spelthorne",
+    "BNG_E":507012,
+    "BNG_N":169622,
+    "Shape__Area":"51161362.6650543",
+    "Shape__Length":"44134.4491837053",
+    "GlobalID":"8a787756-6774-4d99-bbd2-d5aa134e6c1a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.68986,51.3361 ]
+    },
+    "properties": {
+    "OBJECTID":212,
+    "LAD21CD":"E07000214",
+    "LAD21NM":"Surrey Heath",
+    "BNG_E":491362,
+    "BNG_N":160483,
+    "Shape__Area":"95092959.2525024",
+    "Shape__Length":"53559.6224961713",
+    "GlobalID":"c544ac3c-b529-4591-bd81-5e05e0cc146a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.04805,51.23581 ]
+    },
+    "properties": {
+    "OBJECTID":213,
+    "LAD21CD":"E07000215",
+    "LAD21NM":"Tandridge",
+    "BNG_E":536365,
+    "BNG_N":150325,
+    "Shape__Area":"248194569.761368",
+    "Shape__Length":"83136.7824737629",
+    "GlobalID":"3d46b89b-305b-44df-bb22-23e939694a32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.62343,51.15686 ]
+    },
+    "properties": {
+    "OBJECTID":214,
+    "LAD21CD":"E07000216",
+    "LAD21NM":"Waverley",
+    "BNG_E":496363,
+    "BNG_N":140635,
+    "Shape__Area":"345170238.030392",
+    "Shape__Length":"125435.762711868",
+    "GlobalID":"a247ce07-d35d-46d5-a767-775f7d462bb0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.57982,51.30837 ]
+    },
+    "properties": {
+    "OBJECTID":215,
+    "LAD21CD":"E07000217",
+    "LAD21NM":"Woking",
+    "BNG_E":499087,
+    "BNG_N":157542,
+    "Shape__Area":"63603603.4637375",
+    "Shape__Length":"54781.3272127087",
+    "GlobalID":"9499a78f-767e-444f-bc6c-07274f18a6d4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6242,52.56484 ]
+    },
+    "properties": {
+    "OBJECTID":216,
+    "LAD21CD":"E07000218",
+    "LAD21NM":"North Warwickshire",
+    "BNG_E":425570,
+    "BNG_N":296399,
+    "Shape__Area":"284261502.743011",
+    "Shape__Length":"113230.423180909",
+    "GlobalID":"9445cd24-02f8-45be-9766-dd92728ea513"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47965,52.50094 ]
+    },
+    "properties": {
+    "OBJECTID":217,
+    "LAD21CD":"E07000219",
+    "LAD21NM":"Nuneaton and Bedworth",
+    "BNG_E":435419,
+    "BNG_N":289352,
+    "Shape__Area":"78950291.6450729",
+    "Shape__Length":"48148.5849617252",
+    "GlobalID":"ba2bbc4e-5e57-44b2-8a41-8edc49c4c940"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.31828,52.38228 ]
+    },
+    "properties": {
+    "OBJECTID":218,
+    "LAD21CD":"E07000220",
+    "LAD21NM":"Rugby",
+    "BNG_E":446498,
+    "BNG_N":276244,
+    "Shape__Area":"353557288.510536",
+    "Shape__Length":"115093.419606898",
+    "GlobalID":"feb7384d-23cc-4af9-b9c1-5b35404608d1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.63565,52.16154 ]
+    },
+    "properties": {
+    "OBJECTID":219,
+    "LAD21CD":"E07000221",
+    "LAD21NM":"Stratford-on-Avon",
+    "BNG_E":425019,
+    "BNG_N":251536,
+    "Shape__Area":"977869055.570435",
+    "Shape__Length":"261383.673616721",
+    "GlobalID":"4475907a-5c80-4f2e-b545-243612babd8a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.58369,52.30142 ]
+    },
+    "properties": {
+    "OBJECTID":220,
+    "LAD21CD":"E07000222",
+    "LAD21NM":"Warwick",
+    "BNG_E":428484,
+    "BNG_N":267113,
+    "Shape__Area":"282882319.745018",
+    "Shape__Length":"116717.12723474",
+    "GlobalID":"d3af454c-cfa0-4370-8162-5cfa23044fe1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.32417,50.84572 ]
+    },
+    "properties": {
+    "OBJECTID":221,
+    "LAD21CD":"E07000223",
+    "LAD21NM":"Adur",
+    "BNG_E":518076,
+    "BNG_N":106472,
+    "Shape__Area":"42065494.4624748",
+    "Shape__Length":"60515.6323454368",
+    "GlobalID":"d7f7884a-8985-4e67-b2aa-f5f5afb37c30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.64999,50.84321 ]
+    },
+    "properties": {
+    "OBJECTID":222,
+    "LAD21CD":"E07000224",
+    "LAD21NM":"Arun",
+    "BNG_E":495144,
+    "BNG_N":105723,
+    "Shape__Area":"220991201.218742",
+    "Shape__Length":"156497.760289445",
+    "GlobalID":"82ea52cb-6cb8-47e3-b37b-6fe34cf1b63d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.7163,50.94177 ]
+    },
+    "properties": {
+    "OBJECTID":223,
+    "LAD21CD":"E07000225",
+    "LAD21NM":"Chichester",
+    "BNG_E":490285,
+    "BNG_N":116600,
+    "Shape__Area":"786194857.396748",
+    "Shape__Length":"297274.810350626",
+    "GlobalID":"5bb56849-b27f-4a1a-b0c8-bc75e6fb2d99"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19533,51.12357 ]
+    },
+    "properties": {
+    "OBJECTID":224,
+    "LAD21CD":"E07000226",
+    "LAD21NM":"Crawley",
+    "BNG_E":526390,
+    "BNG_N":137581,
+    "Shape__Area":"44971203.1522369",
+    "Shape__Length":"38799.4149296304",
+    "GlobalID":"aed90192-6375-4aa6-9f60-8ce459fde09e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.38126,51.00272 ]
+    },
+    "properties": {
+    "OBJECTID":225,
+    "LAD21CD":"E07000227",
+    "LAD21NM":"Horsham",
+    "BNG_E":513674,
+    "BNG_N":123840,
+    "Shape__Area":"530278365.070137",
+    "Shape__Length":"215759.513693579",
+    "GlobalID":"035e5016-c166-4f51-9260-c8e5f36d8a52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10272,51.05953 ]
+    },
+    "properties": {
+    "OBJECTID":226,
+    "LAD21CD":"E07000228",
+    "LAD21NM":"Mid Sussex",
+    "BNG_E":533054,
+    "BNG_N":130623,
+    "Shape__Area":"334029226.734478",
+    "Shape__Length":"132912.176488487",
+    "GlobalID":"964f494c-fdc7-4e45-8383-21f5814ff2fd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.40127,50.8331 ]
+    },
+    "properties": {
+    "OBJECTID":227,
+    "LAD21CD":"E07000229",
+    "LAD21NM":"Worthing",
+    "BNG_E":512679,
+    "BNG_N":104948,
+    "Shape__Area":"32521008.0470238",
+    "Shape__Length":"29462.0951932159",
+    "GlobalID":"77625b8b-f909-4b50-9a68-1fab4b693ac7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.00376,52.36169 ]
+    },
+    "properties": {
+    "OBJECTID":228,
+    "LAD21CD":"E07000234",
+    "LAD21NM":"Bromsgrove",
+    "BNG_E":399840,
+    "BNG_N":273736,
+    "Shape__Area":"216968481.006905",
+    "Shape__Length":"113135.305965417",
+    "GlobalID":"c94da2c7-ba9b-4958-b23b-978e981ef29b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.33089,52.16758 ]
+    },
+    "properties": {
+    "OBJECTID":229,
+    "LAD21CD":"E07000235",
+    "LAD21NM":"Malvern Hills",
+    "BNG_E":377465,
+    "BNG_N":252197,
+    "Shape__Area":"577070979.601952",
+    "Shape__Length":"230605.355251964",
+    "GlobalID":"dc71fb21-aacd-44a9-9177-15b57235e900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.9471,52.28541 ]
+    },
+    "properties": {
+    "OBJECTID":230,
+    "LAD21CD":"E07000236",
+    "LAD21NM":"Redditch",
+    "BNG_E":403705,
+    "BNG_N":265253,
+    "Shape__Area":"54250911.9179382",
+    "Shape__Length":"41301.7560073474",
+    "GlobalID":"c99327b4-e7d3-46a3-a6c1-471234edc051"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.21025,52.19482 ]
+    },
+    "properties": {
+    "OBJECTID":231,
+    "LAD21CD":"E07000237",
+    "LAD21NM":"Worcester",
+    "BNG_E":385725,
+    "BNG_N":255196,
+    "Shape__Area":"33278125.0236053",
+    "Shape__Length":"31263.0662757778",
+    "GlobalID":"52e2d5da-fd28-47a3-939e-cfb2ed32a2ac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.01614,52.12886 ]
+    },
+    "properties": {
+    "OBJECTID":232,
+    "LAD21CD":"E07000238",
+    "LAD21NM":"Wychavon",
+    "BNG_E":398991,
+    "BNG_N":247839,
+    "Shape__Area":"663541973.452621",
+    "Shape__Length":"219519.701324355",
+    "GlobalID":"501dbca8-da4f-48bf-b980-cc501f43c872"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23494,52.3853 ]
+    },
+    "properties": {
+    "OBJECTID":233,
+    "LAD21CD":"E07000239",
+    "LAD21NM":"Wyre Forest",
+    "BNG_E":384106,
+    "BNG_N":276388,
+    "Shape__Area":"195403721.028099",
+    "Shape__Length":"100867.075355581",
+    "GlobalID":"62a88a3c-ca16-4c15-9604-711323a50dd8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3407,51.77356 ]
+    },
+    "properties": {
+    "OBJECTID":234,
+    "LAD21CD":"E07000240",
+    "LAD21NM":"St Albans",
+    "BNG_E":514580,
+    "BNG_N":209623,
+    "Shape__Area":"161205874.244164",
+    "Shape__Length":"72946.2848058614",
+    "GlobalID":"ca262a3d-a6e4-4fc6-8c35-baba64434302"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18518,51.76087 ]
+    },
+    "properties": {
+    "OBJECTID":235,
+    "LAD21CD":"E07000241",
+    "LAD21NM":"Welwyn Hatfield",
+    "BNG_E":525345,
+    "BNG_N":208467,
+    "Shape__Area":"129536896.518295",
+    "Shape__Length":"82391.9829968341",
+    "GlobalID":"5c39e2c1-06bd-409d-8af4-0cd40bf8bd29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.002739,51.86485 ]
+    },
+    "properties": {
+    "OBJECTID":236,
+    "LAD21CD":"E07000242",
+    "LAD21NM":"East Hertfordshire",
+    "BNG_E":537995,
+    "BNG_N":220370,
+    "Shape__Area":"475669102.36454",
+    "Shape__Length":"135188.178395544",
+    "GlobalID":"a3e99216-41b5-464c-b356-3c3f5d24fe60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18987,51.90539 ]
+    },
+    "properties": {
+    "OBJECTID":237,
+    "LAD21CD":"E07000243",
+    "LAD21NM":"Stevenage",
+    "BNG_E":524622,
+    "BNG_N":224531,
+    "Shape__Area":"25969241.2793503",
+    "Shape__Length":"28588.26135758",
+    "GlobalID":"bf66e917-6dc8-4c22-9cef-63f4def5049d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.456186,52.24399 ]
+    },
+    "properties": {
+    "OBJECTID":238,
+    "LAD21CD":"E07000244",
+    "LAD21NM":"East Suffolk",
+    "BNG_E":636043,
+    "BNG_N":266272,
+    "Shape__Area":"1260989579.41367",
+    "Shape__Length":"584790.287547837",
+    "GlobalID":"98ac7f9a-1323-4cea-9042-56a4bae93b66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.652769,52.30842 ]
+    },
+    "properties": {
+    "OBJECTID":239,
+    "LAD21CD":"E07000245",
+    "LAD21NM":"West Suffolk",
+    "BNG_E":580944,
+    "BNG_N":271124,
+    "Shape__Area":"1034675782.90302",
+    "Shape__Length":"274547.455563971",
+    "GlobalID":"e9037964-c1af-47a7-9f0d-69ae7fc52353"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.35766,51.06348 ]
+    },
+    "properties": {
+    "OBJECTID":240,
+    "LAD21CD":"E07000246",
+    "LAD21NM":"Somerset West and Taunton",
+    "BNG_E":304960,
+    "BNG_N":130228,
+    "Shape__Area":"1189084425.68258",
+    "Shape__Length":"288679.023924563",
+    "GlobalID":"6684e05c-25fc-4f7a-b43a-6a444c498ef3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.47952,53.58449 ]
+    },
+    "properties": {
+    "OBJECTID":241,
+    "LAD21CD":"E08000001",
+    "LAD21NM":"Bolton",
+    "BNG_E":368352,
+    "BNG_N":409873,
+    "Shape__Area":"139792042.627411",
+    "Shape__Length":"82647.1577312719",
+    "GlobalID":"7e72fb96-5341-48ce-947a-93dd3abdf1da"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.3088,53.5931 ]
+    },
+    "properties": {
+    "OBJECTID":242,
+    "LAD21CD":"E08000002",
+    "LAD21NM":"Bury",
+    "BNG_E":379658,
+    "BNG_N":410768,
+    "Shape__Area":"99460126.8785248",
+    "Shape__Length":"68541.6884111014",
+    "GlobalID":"5ca2076b-9b55-426d-befb-34fb546fbcfb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23359,53.47009 ]
+    },
+    "properties": {
+    "OBJECTID":243,
+    "LAD21CD":"E08000003",
+    "LAD21NM":"Manchester",
+    "BNG_E":384591,
+    "BNG_N":397063,
+    "Shape__Area":"115648368.019409",
+    "Shape__Length":"86856.3996573041",
+    "GlobalID":"6e9beef0-33d9-4d29-b9dd-d0d5002a8bd4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.05274,53.55768 ]
+    },
+    "properties": {
+    "OBJECTID":244,
+    "LAD21CD":"E08000004",
+    "LAD21NM":"Oldham",
+    "BNG_E":396603,
+    "BNG_N":406784,
+    "Shape__Area":"142344917.444534",
+    "Shape__Length":"71165.7204608287",
+    "GlobalID":"d7d63238-0aac-4b4d-8712-e8beffc6e558"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.14784,53.60741 ]
+    },
+    "properties": {
+    "OBJECTID":245,
+    "LAD21CD":"E08000005",
+    "LAD21NM":"Rochdale",
+    "BNG_E":390315,
+    "BNG_N":412326,
+    "Shape__Area":"158128175.388794",
+    "Shape__Length":"82713.1445559286",
+    "GlobalID":"af4ca2cd-4e17-4509-9eb2-2a0374c7b790"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.38485,53.47927 ]
+    },
+    "properties": {
+    "OBJECTID":246,
+    "LAD21CD":"E08000006",
+    "LAD21NM":"Salford",
+    "BNG_E":374556,
+    "BNG_N":398128,
+    "Shape__Area":"97197278.4969788",
+    "Shape__Length":"63268.7415921378",
+    "GlobalID":"90974869-9d95-4c8f-b3fe-403432319b73"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.12467,53.39116 ]
+    },
+    "properties": {
+    "OBJECTID":247,
+    "LAD21CD":"E08000007",
+    "LAD21NM":"Stockport",
+    "BNG_E":391806,
+    "BNG_N":388264,
+    "Shape__Area":"126040311.275833",
+    "Shape__Length":"73638.5557808955",
+    "GlobalID":"0d3c0b94-5c20-400e-8b34-6bbecd9219f7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.077,53.47867 ]
+    },
+    "properties": {
+    "OBJECTID":248,
+    "LAD21CD":"E08000008",
+    "LAD21NM":"Tameside",
+    "BNG_E":394987,
+    "BNG_N":397995,
+    "Shape__Area":"103154292.986191",
+    "Shape__Length":"55988.9762213639",
+    "GlobalID":"3b73fa20-c4cb-431e-9d14-7b771d08c494"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.36572,53.41671 ]
+    },
+    "properties": {
+    "OBJECTID":249,
+    "LAD21CD":"E08000009",
+    "LAD21NM":"Trafford",
+    "BNG_E":375790,
+    "BNG_N":391162,
+    "Shape__Area":"106044612.389526",
+    "Shape__Length":"60718.087212357",
+    "GlobalID":"186f31a2-7c96-44ec-92a4-36bb185b320c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.57247,53.51445 ]
+    },
+    "properties": {
+    "OBJECTID":250,
+    "LAD21CD":"E08000010",
+    "LAD21NM":"Wigan",
+    "BNG_E":362136,
+    "BNG_N":402126,
+    "Shape__Area":"188171012.467972",
+    "Shape__Length":"88690.3858142559",
+    "GlobalID":"46829530-7df6-462b-a2c6-ac54ca015885"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.83297,53.43788 ]
+    },
+    "properties": {
+    "OBJECTID":251,
+    "LAD21CD":"E08000011",
+    "LAD21NM":"Knowsley",
+    "BNG_E":344762,
+    "BNG_N":393778,
+    "Shape__Area":"86500060.7558289",
+    "Shape__Length":"68167.3691636951",
+    "GlobalID":"57b128ae-5d1e-4cdd-b391-28a3df83fec4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.91364,53.4083 ]
+    },
+    "properties": {
+    "OBJECTID":252,
+    "LAD21CD":"E08000012",
+    "LAD21NM":"Liverpool",
+    "BNG_E":339361,
+    "BNG_N":390553,
+    "Shape__Area":"111835572.362038",
+    "Shape__Length":"62699.7487831678",
+    "GlobalID":"45a0334d-ec0b-4449-aa9b-83bea9a558c7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.7031,53.45862 ]
+    },
+    "properties": {
+    "OBJECTID":253,
+    "LAD21CD":"E08000013",
+    "LAD21NM":"St. Helens",
+    "BNG_E":353412,
+    "BNG_N":395992,
+    "Shape__Area":"136358793.482689",
+    "Shape__Length":"76386.889589881",
+    "GlobalID":"bf527bcc-0cbb-4abd-bc5b-8af33b9ec8a7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.99177,53.4821 ]
+    },
+    "properties": {
+    "OBJECTID":254,
+    "LAD21CD":"E08000014",
+    "LAD21NM":"Sefton",
+    "BNG_E":334282,
+    "BNG_N":398832,
+    "Shape__Area":"156578243.923325",
+    "Shape__Length":"130345.752802742",
+    "GlobalID":"73d63a67-04e6-4a42-8cc9-b17d1c974206"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.06701,53.37478 ]
+    },
+    "properties": {
+    "OBJECTID":255,
+    "LAD21CD":"E08000015",
+    "LAD21NM":"Wirral",
+    "BNG_E":329110,
+    "BNG_N":386965,
+    "Shape__Area":"160922013.98925",
+    "Shape__Length":"133924.408539141",
+    "GlobalID":"3f192fbf-8d16-4dd6-bfb4-b1e6ee9db0d9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.54925,53.52577 ]
+    },
+    "properties": {
+    "OBJECTID":256,
+    "LAD21CD":"E08000016",
+    "LAD21NM":"Barnsley",
+    "BNG_E":429979,
+    "BNG_N":403327,
+    "Shape__Area":"329077594.50322",
+    "Shape__Length":"126421.141156487",
+    "GlobalID":"ce5d9d25-d116-4283-843e-82a59275de0a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.10894,53.52697 ]
+    },
+    "properties": {
+    "OBJECTID":257,
+    "LAD21CD":"E08000017",
+    "LAD21NM":"Doncaster",
+    "BNG_E":459167,
+    "BNG_N":403735,
+    "Shape__Area":"568006405.286972",
+    "Shape__Length":"171114.48848027",
+    "GlobalID":"7d68eb67-fc45-4a17-a971-5c7482e69b1d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.28651,53.39553 ]
+    },
+    "properties": {
+    "OBJECTID":258,
+    "LAD21CD":"E08000018",
+    "LAD21NM":"Rotherham",
+    "BNG_E":447542,
+    "BNG_N":388980,
+    "Shape__Area":"286534366.876373",
+    "Shape__Length":"106151.90384443",
+    "GlobalID":"5a46d264-1fc2-4327-a32e-bb87ae769807"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.54254,53.40358 ]
+    },
+    "properties": {
+    "OBJECTID":259,
+    "LAD21CD":"E08000019",
+    "LAD21NM":"Sheffield",
+    "BNG_E":430511,
+    "BNG_N":389736,
+    "Shape__Area":"367930013.45134",
+    "Shape__Length":"132837.066229986",
+    "GlobalID":"455e182a-036f-4100-97aa-a877a4a1c605"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.65297,55.021 ]
+    },
+    "properties": {
+    "OBJECTID":260,
+    "LAD21CD":"E08000021",
+    "LAD21NM":"Newcastle upon Tyne",
+    "BNG_E":422287,
+    "BNG_N":569661,
+    "Shape__Area":"113446877.565033",
+    "Shape__Length":"65224.1224978585",
+    "GlobalID":"bb9e8199-1c0d-4019-8de2-8e6821023a88"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50923,55.02896 ]
+    },
+    "properties": {
+    "OBJECTID":261,
+    "LAD21CD":"E08000022",
+    "LAD21NM":"North Tyneside",
+    "BNG_E":431471,
+    "BNG_N":570602,
+    "Shape__Area":"82311584.9256287",
+    "Shape__Length":"65347.6718882176",
+    "GlobalID":"338eeb26-8fee-4354-a394-e42a9421c201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.44679,54.96988 ]
+    },
+    "properties": {
+    "OBJECTID":262,
+    "LAD21CD":"E08000023",
+    "LAD21NM":"South Tyneside",
+    "BNG_E":435514,
+    "BNG_N":564057,
+    "Shape__Area":"64420348.6390686",
+    "Shape__Length":"51335.2667794194",
+    "GlobalID":"83dd7d47-91d6-4849-a433-7f6df1c806d2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.43344,54.85719 ]
+    },
+    "properties": {
+    "OBJECTID":263,
+    "LAD21CD":"E08000024",
+    "LAD21NM":"Sunderland",
+    "BNG_E":436470,
+    "BNG_N":551524,
+    "Shape__Area":"137436258.071594",
+    "Shape__Length":"99824.6252634882",
+    "GlobalID":"2e732f2e-89f8-4d0a-a01c-6b16ee1a5a62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.88141,52.48404 ]
+    },
+    "properties": {
+    "OBJECTID":264,
+    "LAD21CD":"E08000025",
+    "LAD21NM":"Birmingham",
+    "BNG_E":408150,
+    "BNG_N":287352,
+    "Shape__Area":"267791058.798279",
+    "Shape__Length":"106260.619497994",
+    "GlobalID":"2dbafcb4-9b3e-4498-9386-88d19b2e205c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.51908,52.41423 ]
+    },
+    "properties": {
+    "OBJECTID":265,
+    "LAD21CD":"E08000026",
+    "LAD21NM":"Coventry",
+    "BNG_E":432807,
+    "BNG_N":279689,
+    "Shape__Area":"98639060.6567917",
+    "Shape__Length":"54057.1910587663",
+    "GlobalID":"42d5898b-d4cb-486a-a9ea-40412a284e27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.10171,52.49513 ]
+    },
+    "properties": {
+    "OBJECTID":266,
+    "LAD21CD":"E08000027",
+    "LAD21NM":"Dudley",
+    "BNG_E":393191,
+    "BNG_N":288584,
+    "Shape__Area":"97958243.341011",
+    "Shape__Length":"75382.2802756357",
+    "GlobalID":"5a230ac5-b32b-4b63-bec2-39dcccc408ba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.00771,52.51477 ]
+    },
+    "properties": {
+    "OBJECTID":267,
+    "LAD21CD":"E08000028",
+    "LAD21NM":"Sandwell",
+    "BNG_E":399573,
+    "BNG_N":290764,
+    "Shape__Area":"85558927.8994293",
+    "Shape__Length":"59211.0011310175",
+    "GlobalID":"a39f7f35-881b-4d1e-806c-edc7374eb54b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.71558,52.431 ]
+    },
+    "properties": {
+    "OBJECTID":268,
+    "LAD21CD":"E08000029",
+    "LAD21NM":"Solihull",
+    "BNG_E":419434,
+    "BNG_N":281483,
+    "Shape__Area":"178282117.055634",
+    "Shape__Length":"101031.275128473",
+    "GlobalID":"79b74cd7-f612-448d-95ed-c377787f79f0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.97044,52.60503 ]
+    },
+    "properties": {
+    "OBJECTID":269,
+    "LAD21CD":"E08000030",
+    "LAD21NM":"Walsall",
+    "BNG_E":402098,
+    "BNG_N":300804,
+    "Shape__Area":"103973538.34642",
+    "Shape__Length":"59401.1794285967",
+    "GlobalID":"9e93b9f8-1099-4b0b-abcc-1fce42ad94e8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.12746,52.59788 ]
+    },
+    "properties": {
+    "OBJECTID":270,
+    "LAD21CD":"E08000031",
+    "LAD21NM":"Wolverhampton",
+    "BNG_E":391463,
+    "BNG_N":300016,
+    "Shape__Area":"69436709.4773865",
+    "Shape__Length":"56054.7886611397",
+    "GlobalID":"fb2b5f1d-acaa-474c-ac13-9bb22e9e6ee9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.87389,53.84382 ]
+    },
+    "properties": {
+    "OBJECTID":271,
+    "LAD21CD":"E08000032",
+    "LAD21NM":"Bradford",
+    "BNG_E":408395,
+    "BNG_N":438626,
+    "Shape__Area":"366419745.437027",
+    "Shape__Length":"135920.365236872",
+    "GlobalID":"37889566-bae4-4720-80d9-b8e82438400b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.96182,53.72048 ]
+    },
+    "properties": {
+    "OBJECTID":272,
+    "LAD21CD":"E08000033",
+    "LAD21NM":"Calderdale",
+    "BNG_E":402617,
+    "BNG_N":424896,
+    "Shape__Area":"363960992.684967",
+    "Shape__Length":"107687.187293662",
+    "GlobalID":"7631d789-eebf-49f9-ad04-c8f042080665"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.78085,53.64233 ]
+    },
+    "properties": {
+    "OBJECTID":273,
+    "LAD21CD":"E08000034",
+    "LAD21NM":"Kirklees",
+    "BNG_E":414586,
+    "BNG_N":416223,
+    "Shape__Area":"408551660.797684",
+    "Shape__Length":"125668.277769938",
+    "GlobalID":"52242c07-cf61-40e7-af1e-38dde98a20be"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.50736,53.82273 ]
+    },
+    "properties": {
+    "OBJECTID":274,
+    "LAD21CD":"E08000035",
+    "LAD21NM":"Leeds",
+    "BNG_E":432528,
+    "BNG_N":436384,
+    "Shape__Area":"551706535.832367",
+    "Shape__Length":"161521.735517059",
+    "GlobalID":"295aa65a-71c6-489f-bc97-b98ba724bb2d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.42092,53.65922 ]
+    },
+    "properties": {
+    "OBJECTID":275,
+    "LAD21CD":"E08000036",
+    "LAD21NM":"Wakefield",
+    "BNG_E":438366,
+    "BNG_N":418235,
+    "Shape__Area":"338619733.848053",
+    "Shape__Length":"109447.28637914",
+    "GlobalID":"878d11e6-a3fd-48b1-b6ba-4196ccb20aed"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.68694,54.93115 ]
+    },
+    "properties": {
+    "OBJECTID":276,
+    "LAD21CD":"E08000037",
+    "LAD21NM":"Gateshead",
+    "BNG_E":420159,
+    "BNG_N":559652,
+    "Shape__Area":"142354807.584579",
+    "Shape__Length":"89794.062372049",
+    "GlobalID":"a07bfc80-3c11-4656-979c-0650eb66aadb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.09351,51.51564 ]
+    },
+    "properties": {
+    "OBJECTID":277,
+    "LAD21CD":"E09000001",
+    "LAD21NM":"City of London",
+    "BNG_E":532382,
+    "BNG_N":181358,
+    "Shape__Area":"2889678.82288361",
+    "Shape__Length":"9404.60040928951",
+    "GlobalID":"830fd221-d084-4fd4-90ce-d162e2a0a688"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.129479,51.54555 ]
+    },
+    "properties": {
+    "OBJECTID":278,
+    "LAD21CD":"E09000002",
+    "LAD21NM":"Barking and Dagenham",
+    "BNG_E":547757,
+    "BNG_N":185111,
+    "Shape__Area":"36101367.4379044",
+    "Shape__Length":"40903.0061195047",
+    "GlobalID":"718dc0cf-14ee-4e88-9a7a-312722533c3b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.21819,51.61107 ]
+    },
+    "properties": {
+    "OBJECTID":279,
+    "LAD21CD":"E09000003",
+    "LAD21NM":"Barnet",
+    "BNG_E":523473,
+    "BNG_N":191752,
+    "Shape__Area":"86766703.2361679",
+    "Shape__Length":"50937.7781770676",
+    "GlobalID":"fcbd542c-0335-4d61-97cb-6bb7fffb5ec8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.146212,51.45822 ]
+    },
+    "properties": {
+    "OBJECTID":280,
+    "LAD21CD":"E09000004",
+    "LAD21NM":"Bexley",
+    "BNG_E":549202,
+    "BNG_N":175434,
+    "Shape__Area":"60578408.3853989",
+    "Shape__Length":"47959.4902384453",
+    "GlobalID":"b9b0e388-339e-477b-a8d4-da2a80a43398"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.27568,51.56438 ]
+    },
+    "properties": {
+    "OBJECTID":281,
+    "LAD21CD":"E09000005",
+    "LAD21NM":"Brent",
+    "BNG_E":519615,
+    "BNG_N":186465,
+    "Shape__Area":"43236364.5000534",
+    "Shape__Length":"38441.4621103204",
+    "GlobalID":"90e0a09e-ebfc-4103-b3c5-8127a2d8457e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.039246,51.37266 ]
+    },
+    "properties": {
+    "OBJECTID":282,
+    "LAD21CD":"E09000006",
+    "LAD21NM":"Bromley",
+    "BNG_E":542036,
+    "BNG_N":165707,
+    "Shape__Area":"150132482.603828",
+    "Shape__Length":"76225.7196547584",
+    "GlobalID":"5bfef430-8d79-463a-b7ab-a632db9b8d69"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.16291,51.54305 ]
+    },
+    "properties": {
+    "OBJECTID":283,
+    "LAD21CD":"E09000007",
+    "LAD21NM":"Camden",
+    "BNG_E":527491,
+    "BNG_N":184283,
+    "Shape__Area":"21778579.6558762",
+    "Shape__Length":"26245.739181562",
+    "GlobalID":"927353c6-66dd-4461-abec-72368e9f3d03"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07761,51.36597 ]
+    },
+    "properties": {
+    "OBJECTID":284,
+    "LAD21CD":"E09000008",
+    "LAD21NM":"Croydon",
+    "BNG_E":533922,
+    "BNG_N":164744,
+    "Shape__Area":"86488720.6604156",
+    "Shape__Length":"58721.1957720399",
+    "GlobalID":"64881162-4178-4619-81f2-0b951720663e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.3141,51.52442 ]
+    },
+    "properties": {
+    "OBJECTID":285,
+    "LAD21CD":"E09000009",
+    "LAD21NM":"Ealing",
+    "BNG_E":517055,
+    "BNG_N":181959,
+    "Shape__Area":"55542068.9728394",
+    "Shape__Length":"47461.4174836169",
+    "GlobalID":"fc213958-bbf6-47ac-bed4-1c9b1327aa8e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.08144,51.64889 ]
+    },
+    "properties": {
+    "OBJECTID":286,
+    "LAD21CD":"E09000010",
+    "LAD21NM":"Enfield",
+    "BNG_E":532831,
+    "BNG_N":196198,
+    "Shape__Area":"82190329.698349",
+    "Shape__Length":"41091.4717649012",
+    "GlobalID":"1d97ea1e-14c4-4c26-bfe9-5a2e2e9b53d4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.050093,51.46394 ]
+    },
+    "properties": {
+    "OBJECTID":287,
+    "LAD21CD":"E09000011",
+    "LAD21NM":"Greenwich",
+    "BNG_E":542507,
+    "BNG_N":175878,
+    "Shape__Area":"47311233.3829956",
+    "Shape__Length":"47635.2867733162",
+    "GlobalID":"09750607-b333-420e-a4f5-2a402d67d879"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.06045,51.55492 ]
+    },
+    "properties": {
+    "OBJECTID":288,
+    "LAD21CD":"E09000012",
+    "LAD21NM":"Hackney",
+    "BNG_E":534560,
+    "BNG_N":185787,
+    "Shape__Area":"19043878.1759109",
+    "Shape__Length":"25441.8544430665",
+    "GlobalID":"cd83287d-28d1-4f30-956b-7cb50bf55ef2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.21735,51.48733 ]
+    },
+    "properties": {
+    "OBJECTID":289,
+    "LAD21CD":"E09000013",
+    "LAD21NM":"Hammersmith and Fulham",
+    "BNG_E":523867,
+    "BNG_N":177993,
+    "Shape__Area":"16403288.6433716",
+    "Shape__Length":"24008.09587154",
+    "GlobalID":"d1f87c4c-1af3-4b57-8ad0-d726a81d3fae"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1067,51.58771 ]
+    },
+    "properties": {
+    "OBJECTID":290,
+    "LAD21CD":"E09000014",
+    "LAD21NM":"Haringey",
+    "BNG_E":531260,
+    "BNG_N":189349,
+    "Shape__Area":"29606188.7568893",
+    "Shape__Length":"29085.5089573246",
+    "GlobalID":"8b61a673-954a-4687-8ef5-a6957a5631d1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.33598,51.59467 ]
+    },
+    "properties": {
+    "OBJECTID":291,
+    "LAD21CD":"E09000015",
+    "LAD21NM":"Harrow",
+    "BNG_E":515359,
+    "BNG_N":189736,
+    "Shape__Area":"50464270.3934402",
+    "Shape__Length":"33811.7912858702",
+    "GlobalID":"a4f01af4-3b1e-40f1-b6ee-772dcbe39593"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.235368,51.56519 ]
+    },
+    "properties": {
+    "OBJECTID":292,
+    "LAD21CD":"E09000016",
+    "LAD21NM":"Havering",
+    "BNG_E":555032,
+    "BNG_N":187514,
+    "Shape__Area":"112343558.253273",
+    "Shape__Length":"63722.7137240532",
+    "GlobalID":"6b4c8d9c-2019-492a-b4bd-df4929a67a49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.44182,51.53664 ]
+    },
+    "properties": {
+    "OBJECTID":293,
+    "LAD21CD":"E09000017",
+    "LAD21NM":"Hillingdon",
+    "BNG_E":508166,
+    "BNG_N":183121,
+    "Shape__Area":"115704359.838921",
+    "Shape__Length":"63941.0212862206",
+    "GlobalID":"42b95670-30a7-4352-9237-560dd65c9c7e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.37855,51.46238 ]
+    },
+    "properties": {
+    "OBJECTID":294,
+    "LAD21CD":"E09000018",
+    "LAD21NM":"Hounslow",
+    "BNG_E":512737,
+    "BNG_N":174959,
+    "Shape__Area":"55962868.5599976",
+    "Shape__Length":"64533.8036505847",
+    "GlobalID":"b13ac148-d481-46f6-a291-24bea4133454"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.10989,51.54546 ]
+    },
+    "properties": {
+    "OBJECTID":295,
+    "LAD21CD":"E09000019",
+    "LAD21NM":"Islington",
+    "BNG_E":531160,
+    "BNG_N":184645,
+    "Shape__Area":"14858041.7195892",
+    "Shape__Length":"20747.740080408",
+    "GlobalID":"6d48e114-7e15-405e-896c-d27ad98b1782"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18977,51.49648 ]
+    },
+    "properties": {
+    "OBJECTID":296,
+    "LAD21CD":"E09000020",
+    "LAD21NM":"Kensington and Chelsea",
+    "BNG_E":525756,
+    "BNG_N":179058,
+    "Shape__Area":"12123771.9000549",
+    "Shape__Length":"21062.9409676591",
+    "GlobalID":"452100fe-203a-468b-bbc9-0539a1412156"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.28367,51.39296 ]
+    },
+    "properties": {
+    "OBJECTID":297,
+    "LAD21CD":"E09000021",
+    "LAD21NM":"Kingston upon Thames",
+    "BNG_E":519508,
+    "BNG_N":167389,
+    "Shape__Area":"37259416.9783936",
+    "Shape__Length":"37549.9217180313",
+    "GlobalID":"fd6164bb-f617-46ab-aa40-42a34fcde463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.11385,51.46445 ]
+    },
+    "properties": {
+    "OBJECTID":298,
+    "LAD21CD":"E09000022",
+    "LAD21NM":"Lambeth",
+    "BNG_E":531118,
+    "BNG_N":175629,
+    "Shape__Area":"26807014.5285568",
+    "Shape__Length":"34048.7120363",
+    "GlobalID":"0e96bbe6-4cc4-4b2e-bd74-d12fef047d1c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.01734,51.4423 ]
+    },
+    "properties": {
+    "OBJECTID":299,
+    "LAD21CD":"E09000023",
+    "LAD21NM":"Lewisham",
+    "BNG_E":537888,
+    "BNG_N":173343,
+    "Shape__Area":"35146120.5133514",
+    "Shape__Length":"41214.8903254513",
+    "GlobalID":"2b662b6f-f6f5-4da6-8d4a-71a7319b0de4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.18868,51.41058 ]
+    },
+    "properties": {
+    "OBJECTID":300,
+    "LAD21CD":"E09000024",
+    "LAD21NM":"Merton",
+    "BNG_E":526068,
+    "BNG_N":169508,
+    "Shape__Area":"37624038.2783279",
+    "Shape__Length":"32439.5336737715",
+    "GlobalID":"3f1f00b6-d8db-49f7-9cd0-1f21bb7d3049"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.027261,51.53149 ]
+    },
+    "properties": {
+    "OBJECTID":301,
+    "LAD21CD":"E09000025",
+    "LAD21NM":"Newham",
+    "BNG_E":540713,
+    "BNG_N":183346,
+    "Shape__Area":"36195900.4258423",
+    "Shape__Length":"35876.1449410931",
+    "GlobalID":"70ef2902-cf47-4e0a-a34f-015d1e70296a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.070085,51.58588 ]
+    },
+    "properties": {
+    "OBJECTID":302,
+    "LAD21CD":"E09000026",
+    "LAD21NM":"Redbridge",
+    "BNG_E":543512,
+    "BNG_N":189477,
+    "Shape__Area":"56397395.0131073",
+    "Shape__Length":"50492.9387840988",
+    "GlobalID":"eabd56e9-48d6-40c9-99ca-d2d6d2238a9c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.28914,51.44035 ]
+    },
+    "properties": {
+    "OBJECTID":303,
+    "LAD21CD":"E09000027",
+    "LAD21NM":"Richmond upon Thames",
+    "BNG_E":519005,
+    "BNG_N":172650,
+    "Shape__Area":"57392803.72155",
+    "Shape__Length":"68932.8489734006",
+    "GlobalID":"05a02acc-f1e4-4e4d-8cc1-4b0fefc8c720"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.07308,51.46594 ]
+    },
+    "properties": {
+    "OBJECTID":304,
+    "LAD21CD":"E09000028",
+    "LAD21NM":"Southwark",
+    "BNG_E":533945,
+    "BNG_N":175869,
+    "Shape__Area":"28877697.1058502",
+    "Shape__Length":"34596.3421579807",
+    "GlobalID":"dd863305-ad93-4984-bbdb-e57a7f3f8f51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17226,51.35755 ]
+    },
+    "properties": {
+    "OBJECTID":305,
+    "LAD21CD":"E09000029",
+    "LAD21NM":"Sutton",
+    "BNG_E":527357,
+    "BNG_N":163639,
+    "Shape__Area":"43847690.3312454",
+    "Shape__Length":"39927.9157122329",
+    "GlobalID":"8613857c-f0e3-486d-9cfe-5b717d7e67e5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.03647,51.51554 ]
+    },
+    "properties": {
+    "OBJECTID":306,
+    "LAD21CD":"E09000030",
+    "LAD21NM":"Tower Hamlets",
+    "BNG_E":536340,
+    "BNG_N":181452,
+    "Shape__Area":"19770868.2225037",
+    "Shape__Length":"28755.006273148",
+    "GlobalID":"608198ca-5863-4a32-b524-5506a3844137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0188,51.59461 ]
+    },
+    "properties": {
+    "OBJECTID":307,
+    "LAD21CD":"E09000031",
+    "LAD21NM":"Waltham Forest",
+    "BNG_E":537328,
+    "BNG_N":190278,
+    "Shape__Area":"38810231.0118637",
+    "Shape__Length":"33346.5752711045",
+    "GlobalID":"0664124c-8470-48cd-a83e-c71633c22902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.20021,51.4524 ]
+    },
+    "properties": {
+    "OBJECTID":308,
+    "LAD21CD":"E09000032",
+    "LAD21NM":"Wandsworth",
+    "BNG_E":525152,
+    "BNG_N":174138,
+    "Shape__Area":"34261867.3393478",
+    "Shape__Length":"38839.8585877928",
+    "GlobalID":"139862ef-8c4c-4042-941f-e126eb249d1d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15295,51.51221 ]
+    },
+    "properties": {
+    "OBJECTID":309,
+    "LAD21CD":"E09000033",
+    "LAD21NM":"Westminster",
+    "BNG_E":528268,
+    "BNG_N":180871,
+    "Shape__Area":"21482611.1977997",
+    "Shape__Length":"27534.1316680137",
+    "GlobalID":"a488fe8d-7b80-4424-965e-24ab34dfc6e3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1776,54.69386 ]
+    },
+    "properties": {
+    "OBJECTID":310,
+    "LAD21CD":"N09000001",
+    "LAD21NM":"Antrim and Newtownabbey",
+    "BNG_E":130813,
+    "BNG_N":541285,
+    "Shape__Area":"728186553.535458",
+    "Shape__Length":"165144.796009216",
+    "GlobalID":"ab14dfad-c55e-496f-a3ee-e042146a0ce2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.43455,54.3867 ]
+    },
+    "properties": {
+    "OBJECTID":311,
+    "LAD21CD":"N09000002",
+    "LAD21NM":"Armagh City, Banbridge and Craigavon",
+    "BNG_E":112110,
+    "BNG_N":508158,
+    "Shape__Area":"1437068552.8157",
+    "Shape__Length":"243056.187545032",
+    "GlobalID":"718880fd-50e2-409c-8977-24352bcfad0f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.92535,54.59853 ]
+    },
+    "properties": {
+    "OBJECTID":312,
+    "LAD21CD":"N09000003",
+    "LAD21NM":"Belfast",
+    "BNG_E":146465,
+    "BNG_N":529747,
+    "Shape__Area":"137716630.153",
+    "Shape__Length":"65908.1975172843",
+    "GlobalID":"e9644485-3570-4f43-a5da-ac3dca35668b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.5996,55.03962 ]
+    },
+    "properties": {
+    "OBJECTID":313,
+    "LAD21CD":"N09000004",
+    "LAD21NM":"Causeway Coast and Glens",
+    "BNG_E":106168,
+    "BNG_N":581420,
+    "Shape__Area":"1985534511.66904",
+    "Shape__Length":"381749.493068119",
+    "GlobalID":"1a8eea70-aded-427e-85d7-1d2d36f04cbd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.42064,54.80904 ]
+    },
+    "properties": {
+    "OBJECTID":314,
+    "LAD21CD":"N09000005",
+    "LAD21NM":"Derry City and Strabane",
+    "BNG_E":51779,
+    "BNG_N":559566,
+    "Shape__Area":"1251241562.6108",
+    "Shape__Length":"271488.90820484",
+    "GlobalID":"e37ba4df-281b-4c75-8f82-7b5a12000bda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.5271,54.38521 ]
+    },
+    "properties": {
+    "OBJECTID":315,
+    "LAD21CD":"N09000006",
+    "LAD21NM":"Fermanagh and Omagh",
+    "BNG_E":41233,
+    "BNG_N":513013,
+    "Shape__Area":"3012114877.30699",
+    "Shape__Length":"426624.028390535",
+    "GlobalID":"23e1a7e8-b56a-427d-a429-6eab11a0b4d9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.03545,54.49752 ]
+    },
+    "properties": {
+    "OBJECTID":316,
+    "LAD21CD":"N09000007",
+    "LAD21NM":"Lisburn and Castlereagh",
+    "BNG_E":138712,
+    "BNG_N":518920,
+    "Shape__Area":"510438068.179539",
+    "Shape__Length":"167382.916021229",
+    "GlobalID":"813b68c9-456b-4ce1-9513-8de5ae6ae20b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.14645,54.86462 ]
+    },
+    "properties": {
+    "OBJECTID":317,
+    "LAD21CD":"N09000008",
+    "LAD21NM":"Mid and East Antrim",
+    "BNG_E":133943,
+    "BNG_N":560151,
+    "Shape__Area":"1061355466.99253",
+    "Shape__Length":"234862.589304512",
+    "GlobalID":"a869d72c-6dda-4210-9ae7-0b47b9a9547b"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8889,54.55273 ]
+    },
+    "properties": {
+    "OBJECTID":318,
+    "LAD21CD":"N09000009",
+    "LAD21NM":"Mid Ulster",
+    "BNG_E":83920,
+    "BNG_N":528564,
+    "Shape__Area":"1957293802.17527",
+    "Shape__Length":"318433.184764098",
+    "GlobalID":"668e16b4-12cd-40c4-b785-0180580d00c1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.08891,54.14953 ]
+    },
+    "properties": {
+    "OBJECTID":319,
+    "LAD21CD":"N09000010",
+    "LAD21NM":"Newry, Mourne and Down",
+    "BNG_E":133006,
+    "BNG_N":480432,
+    "Shape__Area":"1682340590.08834",
+    "Shape__Length":"380092.259434884",
+    "GlobalID":"3114c372-8fc8-42ba-9e0b-c41a03a43c2e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.64568,54.56409 ]
+    },
+    "properties": {
+    "OBJECTID":320,
+    "LAD21CD":"N09000011",
+    "LAD21NM":"Ards and North Down",
+    "BNG_E":164321,
+    "BNG_N":524944,
+    "Shape__Area":"566472955.048378",
+    "Shape__Length":"204687.660819203",
+    "GlobalID":"79b46d40-3bd4-4c13-82c3-02fd37b78c16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.75316,56.14784 ]
+    },
+    "properties": {
+    "OBJECTID":321,
+    "LAD21CD":"S12000005",
+    "LAD21NM":"Clackmannanshire",
+    "BNG_E":291178,
+    "BNG_N":696402,
+    "Shape__Area":"159185046.780563",
+    "Shape__Length":"96934.5372320524",
+    "GlobalID":"32244e38-cc90-453a-b4e9-d056f23c0fc7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.02863,55.09621 ]
+    },
+    "properties": {
+    "OBJECTID":322,
+    "LAD21CD":"S12000006",
+    "LAD21NM":"Dumfries and Galloway",
+    "BNG_E":270645,
+    "BNG_N":579856,
+    "Shape__Area":"6436566764.09637",
+    "Shape__Length":"1207100.79655474",
+    "GlobalID":"89a3686a-2a22-434f-ac68-a94ed52c3308"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.29057,55.49674 ]
+    },
+    "properties": {
+    "OBJECTID":323,
+    "LAD21CD":"S12000008",
+    "LAD21NM":"East Ayrshire",
+    "BNG_E":255398,
+    "BNG_N":624935,
+    "Shape__Area":"1270342032.21393",
+    "Shape__Length":"340964.440963998",
+    "GlobalID":"f6f73d6f-d016-4a0b-9c0c-03b46f412c61"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.72435,55.94207 ]
+    },
+    "properties": {
+    "OBJECTID":324,
+    "LAD21CD":"S12000010",
+    "LAD21NM":"East Lothian",
+    "BNG_E":354854,
+    "BNG_N":672351,
+    "Shape__Area":"679240892.618149",
+    "Shape__Length":"202128.872658249",
+    "GlobalID":"18d26c16-b148-4b38-a4f7-da1288ceb87a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.3606,55.74868 ]
+    },
+    "properties": {
+    "OBJECTID":325,
+    "LAD21CD":"S12000011",
+    "LAD21NM":"East Renfrewshire",
+    "BNG_E":251929,
+    "BNG_N":653115,
+    "Shape__Area":"174249494.081558",
+    "Shape__Length":"93882.4298837802",
+    "GlobalID":"d82a5f1a-5307-4809-84cf-23d9ffbdeaf6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.65722,58.19938 ]
+    },
+    "properties": {
+    "OBJECTID":326,
+    "LAD21CD":"S12000013",
+    "LAD21NM":"Na h-Eileanan Siar",
+    "BNG_E":126473,
+    "BNG_N":932862,
+    "Shape__Area":"3096614749.10964",
+    "Shape__Length":"3871068.33882014",
+    "GlobalID":"aea1105e-66bd-4608-ae8d-c1691fcc3222"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.83619,56.00075 ]
+    },
+    "properties": {
+    "OBJECTID":327,
+    "LAD21CD":"S12000014",
+    "LAD21NM":"Falkirk",
+    "BNG_E":285585,
+    "BNG_N":680168,
+    "Shape__Area":"297127560.13887",
+    "Shape__Length":"169062.826125422",
+    "GlobalID":"d25971a0-c381-4ed3-befc-993d5ad71249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.66103,57.58657 ]
+    },
+    "properties": {
+    "OBJECTID":328,
+    "LAD21CD":"S12000017",
+    "LAD21NM":"Highland",
+    "BNG_E":241018,
+    "BNG_N":858292,
+    "Shape__Area":"26158744575.5114",
+    "Shape__Length":"5228313.52755572",
+    "GlobalID":"1c097c6c-1c42-427f-8ffe-0b4869b399bc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.75387,55.9003 ]
+    },
+    "properties": {
+    "OBJECTID":329,
+    "LAD21CD":"S12000018",
+    "LAD21NM":"Inverclyde",
+    "BNG_E":227922,
+    "BNG_N":670894,
+    "Shape__Area":"161948856.608322",
+    "Shape__Length":"79292.118858613",
+    "GlobalID":"cd51aa5f-2530-4d80-8eb0-08de9819e4e5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.11738,55.82111 ]
+    },
+    "properties": {
+    "OBJECTID":330,
+    "LAD21CD":"S12000019",
+    "LAD21NM":"Midlothian",
+    "BNG_E":330088,
+    "BNG_N":659217,
+    "Shape__Area":"355271578.325897",
+    "Shape__Length":"126470.990462398",
+    "GlobalID":"632d28db-b2f8-4c56-94d1-ee8ce09b5f60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.20202,57.4768 ]
+    },
+    "properties": {
+    "OBJECTID":331,
+    "LAD21CD":"S12000020",
+    "LAD21NM":"Moray",
+    "BNG_E":328015,
+    "BNG_N":843590,
+    "Shape__Area":"2237554237.47304",
+    "Shape__Length":"463278.21810875",
+    "GlobalID":"0396665b-1a5b-46df-9285-39026706bd45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.7246,55.72789 ]
+    },
+    "properties": {
+    "OBJECTID":332,
+    "LAD21CD":"S12000021",
+    "LAD21NM":"North Ayrshire",
+    "BNG_E":228996,
+    "BNG_N":651640,
+    "Shape__Area":"885284942.955383",
+    "Shape__Length":"350167.481325779",
+    "GlobalID":"1244771e-803c-48d8-8cee-2d50c1673351"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.90025,58.94334 ]
+    },
+    "properties": {
+    "OBJECTID":333,
+    "LAD21CD":"S12000023",
+    "LAD21NM":"Orkney Islands",
+    "BNG_E":348293,
+    "BNG_N":1006584,
+    "Shape__Area":"1015036193.36963",
+    "Shape__Length":"1203117.00914489",
+    "GlobalID":"479c444e-6b98-446f-a709-b5754cc42979"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.85869,55.52595 ]
+    },
+    "properties": {
+    "OBJECTID":334,
+    "LAD21CD":"S12000026",
+    "LAD21NM":"Scottish Borders",
+    "BNG_E":345889,
+    "BNG_N":626137,
+    "Shape__Area":"4739167854.45145",
+    "Shape__Length":"514330.561763589",
+    "GlobalID":"86438ca2-65ad-4819-80fd-1070ec8f21e1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.37344,60.50495 ]
+    },
+    "properties": {
+    "OBJECTID":335,
+    "LAD21CD":"S12000027",
+    "LAD21NM":"Shetland Islands",
+    "BNG_E":434516,
+    "BNG_N":1180307,
+    "Shape__Area":"1468514416.85117",
+    "Shape__Length":"2321876.16010241",
+    "GlobalID":"80bd4c40-e08f-4271-a662-b22ae9ae2a5c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.72899,55.23008 ]
+    },
+    "properties": {
+    "OBJECTID":336,
+    "LAD21CD":"S12000028",
+    "LAD21NM":"South Ayrshire",
+    "BNG_E":226545,
+    "BNG_N":596271,
+    "Shape__Area":"1224369285.16642",
+    "Shape__Length":"334722.079696847",
+    "GlobalID":"5b9b0fc9-ef40-46dc-a963-b4fee5ff0ab8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.83272,55.60453 ]
+    },
+    "properties": {
+    "OBJECTID":337,
+    "LAD21CD":"S12000029",
+    "LAD21NM":"South Lanarkshire",
+    "BNG_E":284634,
+    "BNG_N":636071,
+    "Shape__Area":"1773897195.34454",
+    "Shape__Length":"284527.322494954",
+    "GlobalID":"3ab2fa9c-9e4a-474b-8cbb-c5e870f0918d"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.32595,56.24953 ]
+    },
+    "properties": {
+    "OBJECTID":338,
+    "LAD21CD":"S12000030",
+    "LAD21NM":"Stirling",
+    "BNG_E":255980,
+    "BNG_N":708769,
+    "Shape__Area":"2252533429.02213",
+    "Shape__Length":"374946.182274351",
+    "GlobalID":"d59e1443-c202-4bc9-ac10-da0a86ec7581"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.20398,57.16697 ]
+    },
+    "properties": {
+    "OBJECTID":339,
+    "LAD21CD":"S12000033",
+    "LAD21NM":"Aberdeen City",
+    "BNG_E":387763,
+    "BNG_N":808479,
+    "Shape__Area":"185566198.963501",
+    "Shape__Length":"123490.692834601",
+    "GlobalID":"dad8cefb-0e02-4bad-a3a9-c5e30229b6a3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.79208,57.23469 ]
+    },
+    "properties": {
+    "OBJECTID":340,
+    "LAD21CD":"S12000034",
+    "LAD21NM":"Aberdeenshire",
+    "BNG_E":352284,
+    "BNG_N":816277,
+    "Shape__Area":"6318011418.76749",
+    "Shape__Length":"795104.459048163",
+    "GlobalID":"88d7c1ca-e23e-4231-9d93-33785090ce69"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.22114,56.28944 ]
+    },
+    "properties": {
+    "OBJECTID":341,
+    "LAD21CD":"S12000035",
+    "LAD21NM":"Argyll and Bute",
+    "BNG_E":200740,
+    "BNG_N":715443,
+    "Shape__Area":"7005854069.48919",
+    "Shape__Length":"3795946.11257698",
+    "GlobalID":"a97ceec5-6ddf-46ba-9403-0d35d28ed9c4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.27826,55.9112 ]
+    },
+    "properties": {
+    "OBJECTID":342,
+    "LAD21CD":"S12000036",
+    "LAD21NM":"City of Edinburgh",
+    "BNG_E":320193,
+    "BNG_N":669417,
+    "Shape__Area":"263390596.412094",
+    "Shape__Length":"110339.006536691",
+    "GlobalID":"6f7959e4-dd8c-435f-a9c4-cfe2cba05631"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.56834,55.84862 ]
+    },
+    "properties": {
+    "OBJECTID":343,
+    "LAD21CD":"S12000038",
+    "LAD21NM":"Renfrewshire",
+    "BNG_E":239305,
+    "BNG_N":664698,
+    "Shape__Area":"261487693.124023",
+    "Shape__Length":"131636.108048527",
+    "GlobalID":"934c2301-393a-48bf-8161-b0cc2b85c348"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.52074,56.0014 ]
+    },
+    "properties": {
+    "OBJECTID":344,
+    "LAD21CD":"S12000039",
+    "LAD21NM":"West Dunbartonshire",
+    "BNG_E":242904,
+    "BNG_N":681586,
+    "Shape__Area":"177320342.664597",
+    "Shape__Length":"103696.856598265",
+    "GlobalID":"6fe9dc35-fe96-4837-8732-a96bd14a6561"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.60909,55.8992 ]
+    },
+    "properties": {
+    "OBJECTID":345,
+    "LAD21CD":"S12000040",
+    "LAD21NM":"West Lothian",
+    "BNG_E":299483,
+    "BNG_N":668514,
+    "Shape__Area":"428772888.987823",
+    "Shape__Length":"134896.994739104",
+    "GlobalID":"2836fc5b-6a87-41ac-89ac-e8b68347e3c6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8921,56.72518 ]
+    },
+    "properties": {
+    "OBJECTID":346,
+    "LAD21CD":"S12000041",
+    "LAD21NM":"Angus",
+    "BNG_E":345506,
+    "BNG_N":759636,
+    "Shape__Area":"2184982991.10056",
+    "Shape__Length":"328926.663947585",
+    "GlobalID":"0b4108ee-773e-40b5-9277-b5a9865e7498"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.97095,56.4776 ]
+    },
+    "properties": {
+    "OBJECTID":347,
+    "LAD21CD":"S12000042",
+    "LAD21NM":"Dundee City",
+    "BNG_E":340291,
+    "BNG_N":732145,
+    "Shape__Area":"59800691.085083",
+    "Shape__Length":"47831.2210168885",
+    "GlobalID":"b22a38fc-4c2c-45a8-a518-7c79bf92b9ec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.22417,55.95829 ]
+    },
+    "properties": {
+    "OBJECTID":348,
+    "LAD21CD":"S12000045",
+    "LAD21NM":"East Dunbartonshire",
+    "BNG_E":261240,
+    "BNG_N":676154,
+    "Shape__Area":"174489023.42247",
+    "Shape__Length":"99602.3601592651",
+    "GlobalID":"25f755f0-ba13-4f23-b58d-8f68535bd44a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.98251,56.23112 ]
+    },
+    "properties": {
+    "OBJECTID":349,
+    "LAD21CD":"S12000047",
+    "LAD21NM":"Fife",
+    "BNG_E":339187,
+    "BNG_N":704721,
+    "Shape__Area":"1325190177.81909",
+    "Shape__Length":"358326.920220923",
+    "GlobalID":"ed54a672-abba-41d9-952b-99c41c332c55"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.88484,56.57528 ]
+    },
+    "properties": {
+    "OBJECTID":350,
+    "LAD21CD":"S12000048",
+    "LAD21NM":"Perth and Kinross",
+    "BNG_E":284302,
+    "BNG_N":744185,
+    "Shape__Area":"5383770897.17082",
+    "Shape__Length":"633252.328522909",
+    "GlobalID":"aafab3ee-19a3-4cff-a138-a9f99d249804"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.21479,55.87649 ]
+    },
+    "properties": {
+    "OBJECTID":351,
+    "LAD21CD":"S12000049",
+    "LAD21NM":"Glasgow City",
+    "BNG_E":261534,
+    "BNG_N":667033,
+    "Shape__Area":"174621293.706604",
+    "Shape__Length":"135582.99800793",
+    "GlobalID":"f4f660f9-eb7a-44a4-9037-bce9bc38f61a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.9514,55.86814 ]
+    },
+    "properties": {
+    "OBJECTID":352,
+    "LAD21CD":"S12000050",
+    "LAD21NM":"North Lanarkshire",
+    "BNG_E":277984,
+    "BNG_N":665608,
+    "Shape__Area":"472309075.163071",
+    "Shape__Length":"163984.671595743",
+    "GlobalID":"49f88bc0-e27d-4dab-aa9b-4f8367af758a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.32298,53.27931 ]
+    },
+    "properties": {
+    "OBJECTID":353,
+    "LAD21CD":"W06000001",
+    "LAD21NM":"Isle of Anglesey",
+    "BNG_E":245217,
+    "BNG_N":378331,
+    "Shape__Area":"715212566.824203",
+    "Shape__Length":"378962.153549836",
+    "GlobalID":"dc187a75-daa8-41ed-9db4-7fddcb055603"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.77715,52.89883 ]
+    },
+    "properties": {
+    "OBJECTID":354,
+    "LAD21CD":"W06000002",
+    "LAD21NM":"Gwynedd",
+    "BNG_E":280555,
+    "BNG_N":334966,
+    "Shape__Area":"2548293001.49232",
+    "Shape__Length":"643031.186078295",
+    "GlobalID":"e27be13e-fc96-4392-ae5f-ef923ea8ef59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74646,53.14739 ]
+    },
+    "properties": {
+    "OBJECTID":355,
+    "LAD21CD":"W06000003",
+    "LAD21NM":"Conwy",
+    "BNG_E":283293,
+    "BNG_N":362563,
+    "Shape__Area":"1130178952.57072",
+    "Shape__Length":"283264.262204981",
+    "GlobalID":"8a3f9acf-d282-4ad4-9280-9d6a399cf4c3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.34761,53.08833 ]
+    },
+    "properties": {
+    "OBJECTID":356,
+    "LAD21CD":"W06000004",
+    "LAD21NM":"Denbighshire",
+    "BNG_E":309843,
+    "BNG_N":355416,
+    "Shape__Area":"838716186.145126",
+    "Shape__Length":"228754.688991224",
+    "GlobalID":"ecfadc9b-3db7-423f-8652-2bf54ac45648"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18248,53.21471 ]
+    },
+    "properties": {
+    "OBJECTID":357,
+    "LAD21CD":"W06000005",
+    "LAD21NM":"Flintshire",
+    "BNG_E":321134,
+    "BNG_N":369280,
+    "Shape__Area":"439830286.775932",
+    "Shape__Length":"239008.264926854",
+    "GlobalID":"e27667ce-9df8-4da7-9f6c-a1fb43cbff20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.99203,53.00167 ]
+    },
+    "properties": {
+    "OBJECTID":358,
+    "LAD21CD":"W06000006",
+    "LAD21NM":"Wrexham",
+    "BNG_E":333523,
+    "BNG_N":345387,
+    "Shape__Area":"503773487.932762",
+    "Shape__Length":"190040.487574014",
+    "GlobalID":"f131973e-ff12-4855-817a-533dcb41b253"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.94993,52.29795 ]
+    },
+    "properties": {
+    "OBJECTID":359,
+    "LAD21CD":"W06000008",
+    "LAD21NM":"Ceredigion",
+    "BNG_E":267127,
+    "BNG_N":268437,
+    "Shape__Area":"1788379278.20161",
+    "Shape__Length":"382134.551623005",
+    "GlobalID":"f111968c-219e-4659-97d3-625477bdced5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.90818,51.85513 ]
+    },
+    "properties": {
+    "OBJECTID":360,
+    "LAD21CD":"W06000009",
+    "LAD21NM":"Pembrokeshire",
+    "BNG_E":199821,
+    "BNG_N":221392,
+    "Shape__Area":"1618344602.56798",
+    "Shape__Length":"743271.411676899",
+    "GlobalID":"290edabc-d475-4d7a-9970-cdc4d0d4c934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.2111,51.89495 ]
+    },
+    "properties": {
+    "OBJECTID":361,
+    "LAD21CD":"W06000010",
+    "LAD21NM":"Carmarthenshire",
+    "BNG_E":247954,
+    "BNG_N":224133,
+    "Shape__Area":"2371104004.2416",
+    "Shape__Length":"591758.358208379",
+    "GlobalID":"ca931104-1451-4fc1-98da-d4bbed9bfd5a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.96723,51.65806 ]
+    },
+    "properties": {
+    "OBJECTID":362,
+    "LAD21CD":"W06000011",
+    "LAD21NM":"Swansea",
+    "BNG_E":264022,
+    "BNG_N":197308,
+    "Shape__Area":"377614559.601128",
+    "Shape__Length":"270826.91229845",
+    "GlobalID":"9484ce28-fe54-4d4e-84db-9e80cd8d7015"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.74638,51.6445 ]
+    },
+    "properties": {
+    "OBJECTID":363,
+    "LAD21CD":"W06000012",
+    "LAD21NM":"Neath Port Talbot",
+    "BNG_E":279261,
+    "BNG_N":195412,
+    "Shape__Area":"442272615.121151",
+    "Shape__Length":"182189.873896437",
+    "GlobalID":"1834cc4b-2f0b-4198-b127-1ef90ab819ad"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.61375,51.5606 ]
+    },
+    "properties": {
+    "OBJECTID":364,
+    "LAD21CD":"W06000013",
+    "LAD21NM":"Bridgend",
+    "BNG_E":288231,
+    "BNG_N":185870,
+    "Shape__Area":"250785304.37994",
+    "Shape__Length":"93192.1892347875",
+    "GlobalID":"82e6b382-2149-44ab-83a4-bee7d7532dcb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.39801,51.44836 ]
+    },
+    "properties": {
+    "OBJECTID":365,
+    "LAD21CD":"W06000014",
+    "LAD21NM":"Vale of Glamorgan",
+    "BNG_E":302947,
+    "BNG_N":173080,
+    "Shape__Area":"331261393.923573",
+    "Shape__Length":"108403.096935856",
+    "GlobalID":"14dc988c-5b10-479e-a9b9-22533b7acfd1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.22209,51.50254 ]
+    },
+    "properties": {
+    "OBJECTID":366,
+    "LAD21CD":"W06000015",
+    "LAD21NM":"Cardiff",
+    "BNG_E":315272,
+    "BNG_N":178887,
+    "Shape__Area":"142303624.581406",
+    "Shape__Length":"79618.4229383758",
+    "GlobalID":"eb7f1552-8066-46e4-9790-9674188911af"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.41359,51.62185 ]
+    },
+    "properties": {
+    "OBJECTID":367,
+    "LAD21CD":"W06000016",
+    "LAD21NM":"Rhondda Cynon Taf",
+    "BNG_E":302237,
+    "BNG_N":192395,
+    "Shape__Area":"424150424.955551",
+    "Shape__Length":"130240.624602837",
+    "GlobalID":"f4f554ce-96a0-4125-b418-2bc0987cc96a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.19753,51.65001 ]
+    },
+    "properties": {
+    "OBJECTID":368,
+    "LAD21CD":"W06000018",
+    "LAD21NM":"Caerphilly",
+    "BNG_E":317245,
+    "BNG_N":195259,
+    "Shape__Area":"277387820.795345",
+    "Shape__Length":"116205.600666614",
+    "GlobalID":"cee13447-cbbd-4bc9-b0e6-5ae483ea2b7c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.18592,51.75364 ]
+    },
+    "properties": {
+    "OBJECTID":369,
+    "LAD21CD":"W06000019",
+    "LAD21NM":"Blaenau Gwent",
+    "BNG_E":318236,
+    "BNG_N":206771,
+    "Shape__Area":"108728048.165253",
+    "Shape__Length":"65601.6744409075",
+    "GlobalID":"8b6ea51b-c421-4087-b3e2-92ecd2237a4e"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.05101,51.69836 ]
+    },
+    "properties": {
+    "OBJECTID":370,
+    "LAD21CD":"W06000020",
+    "LAD21NM":"Torfaen",
+    "BNG_E":327459,
+    "BNG_N":200480,
+    "Shape__Area":"126239927.867481",
+    "Shape__Length":"82544.7709799913",
+    "GlobalID":"ed5461b6-cdb4-46b1-8049-0e9216b9d00f"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9028,51.77827 ]
+    },
+    "properties": {
+    "OBJECTID":371,
+    "LAD21CD":"W06000021",
+    "LAD21NM":"Monmouthshire",
+    "BNG_E":337812,
+    "BNG_N":209231,
+    "Shape__Area":"850326621.679863",
+    "Shape__Length":"224917.242780518",
+    "GlobalID":"a7feffe9-3fac-401c-b162-f853252c26f8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.89769,51.58231 ]
+    },
+    "properties": {
+    "OBJECTID":372,
+    "LAD21CD":"W06000022",
+    "LAD21NM":"Newport",
+    "BNG_E":337897,
+    "BNG_N":187432,
+    "Shape__Area":"190431130.834728",
+    "Shape__Length":"153216.300044048",
+    "GlobalID":"b457647a-1151-426a-be0b-57d4ed9d1687"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.43531,52.34864 ]
+    },
+    "properties": {
+    "OBJECTID":373,
+    "LAD21CD":"W06000023",
+    "LAD21NM":"Powys",
+    "BNG_E":302329,
+    "BNG_N":273255,
+    "Shape__Area":"5195311014.48947",
+    "Shape__Length":"610121.315602947",
+    "GlobalID":"90ff5771-3f0e-4095-96d1-e5263096c992"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.36425,51.74858 ]
+    },
+    "properties": {
+    "OBJECTID":374,
+    "LAD21CD":"W06000024",
+    "LAD21NM":"Merthyr Tydfil",
+    "BNG_E":305916,
+    "BNG_N":206424,
+    "Shape__Area":"111957012.02029",
+    "Shape__Length":"66696.8154449643",
+    "GlobalID":"7a088b59-ae24-488e-8832-e0bf910e9b8f"
+    }
+  }
+]
+}
